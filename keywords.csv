@@ -1,7 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'heizen',de,Energiekrise,#154c79,#b55035,1,1.0
 'Industrie',de,Politik,#154c79,#802d16,1,1.0
-'frieren',de,Winter,#154c79,#638ed4,3,1.0
 'Versorgung',de,Energiekrise,#154c79,#679e2c,1,1.0
 'Ukraine',de, Russland, #154c79,#154c79,1,1.0
 'Winter',de,Winter,#154c79,#315fa8,1,1.0
@@ -16,6 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olaf Scholz',de,Politik,#154c79,#3b4a63,4,0.9060801268181818
 'Sicherheit',de,Politik,#154c79,#477515,2,0.9004923854545455
 'Import',de,Energiekrise,#154c79,#87830f,2,0.8958638009090909
+'frieren',de,Winter,#154c79,#638ed4,3,0.8640455440909091
 'Energie',de,Energiekrise,#154c79,#a89216,2,0.85505299
 'Kreml', de, Russland, #154c79,#154c79,1,0.85
 'Saporischschja', de, Russland,#154c79,#154c79,1,0.85
