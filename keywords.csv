@@ -1,21 +1,21 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Saporischschja', de, Russland,#154c79,#154c79,1,1.0
-'Import',de,Energiekrise,#154c79,#87830f,1,1.0
+'Kreml', de, Russland, #154c79,#154c79,1,1.0
 'Industrie',de,Politik,#154c79,#802d16,1,1.0
 'Pipeline',de, Russland, #154c79,#154c79,1,1.0
 'Ukraine',de, Russland, #154c79,#154c79,1,1.0
-'Winter',de,Winter,#154c79,#315fa8,1,1.0
+'frieren',de,Winter,#154c79,#638ed4,3,1.0
 'Gas',de,Winter,#154c79,#9e3215,1,1.0
 'heizen',de,Energiekrise,#154c79,#b55035,1,1.0
-'frieren',de,Winter,#154c79,#638ed4,3,1.0
+'Winter',de,Winter,#154c79,#315fa8,1,1.0
 'Versorgung',de,Energiekrise,#154c79,#679e2c,1,1.0
 'Energie',de,Energiekrise,#154c79,#a89216,1,1.0
-'Kreml', de, Russland, #154c79,#154c79,1,1.0
+'Import',de,Energiekrise,#154c79,#87830f,1,1.0
 'Gasmangel',de,Energiekrise,#154c79,#bfba22,1,1.0
 'sparen',de,Energiekrise,#154c79,#7db344,1,1.0
-'Unterstützung',de,Politik,#154c79,#c4b03b,1,1.0
 'Krieg',de, Russland,#154c79,#154c79,3,0.9868991618181818
 'Wladimir Putin',de, Russland,#154c79,#154c79,3,0.9822689872727272
+'Unterstützung',de,Politik,#154c79,#c4b03b,3,0.9778048627272727
 'Bürgergeld',de,Politik,#154c79,#d64118,3,0.9504237004545454
 'Dämmung',de,Winter,#154c79,#022f78,2,0.923132928181818
 'Katar',de,Politik,#154c79,#61b00c,4,0.9204720891363636
