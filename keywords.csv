@@ -1,6 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'heizen',de,Energiekrise,#154c79,#b55035,1,1.0
-'Pipeline',de, Russland, #154c79,#154c79,1,1.0
 'sparen',de,Energiekrise,#154c79,#7db344,1,1.0
 'frieren',de,Winter,#154c79,#638ed4,3,1.0
 'Gas',de,Winter,#154c79,#9e3215,1,1.0
@@ -12,6 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Krieg',de, Russland,#154c79,#154c79,3,0.9868991618181818
 'Wladimir Putin',de, Russland,#154c79,#154c79,3,0.9822689872727272
 'Unterstützung',de,Politik,#154c79,#c4b03b,3,0.9778048627272728
+'Pipeline',de, Russland, #154c79,#154c79,3,0.9731422581818181
 'Bürgergeld',de,Politik,#154c79,#d64118,3,0.9504237004545454
 'Katar',de,Politik,#154c79,#61b00c,4,0.9204720891363636
 'Olaf Scholz',de,Politik,#154c79,#3b4a63,4,0.9060801268181818
