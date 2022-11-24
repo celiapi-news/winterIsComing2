@@ -5,19 +5,19 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine',de, Russland, #154c79,#154c79,1,1.0
 'Krieg',de, Russland,#154c79,#154c79,1,1.0
 'Wladimir Putin',de, Russland,#154c79,#154c79,3,0.9822689872727272
-'frieren',de,Winter,#154c79,#638ed4,3,0.5947806938352271
-'Winter',de,Winter,#154c79,#315fa8,1,0.5614125
-'Gas',de,Winter,#154c79,#9e3215,1,0.555863463125
-'Dämmung',de,Winter,#154c79,#022f78,1,0.5125670175
-'heizen',de,Energiekrise,#154c79,#b55035,1,0.4986510416666665
-'Versorgung',de,Energiekrise,#154c79,#679e2c,1,0.4794875
-'Energie',de,Energiekrise,#154c79,#a89216,1,0.4786575
-'Import',de,Energiekrise,#154c79,#87830f,1,0.4705857873661989
-'Gasmangel',de,Energiekrise,#154c79,#bfba22,1,0.4703845937499998
-'sparen',de,Energiekrise,#154c79,#7db344,1,0.4617094631672111
-'Bürgergeld',de,Politik,#154c79,#d64118,1,0.4539151550156249
-'Unterstützung',de,Politik,#154c79,#c4b03b,2,0.4228879266406248
-'Olaf Scholz',de,Politik,#154c79,#3b4a63,2,0.377734102688775
-'Katar',de,Politik,#154c79,#61b00c,1,0.3705460201285585
-'Sicherheit',de,Politik,#154c79,#477515,1,0.2844000461382296
-'Industrie',de,Politik,#154c79,#802d16,1,0.2615824620417953
+'frieren',de,Winter,#154c79,#638ed4,3,1
+'Winter',de,Winter,#154c79,#315fa8,1,1
+'Gas',de,Winter,#154c79,#9e3215,1,1
+'Dämmung',de,Winter,#154c79,#022f78,1,1
+'heizen',de,Energiekrise,#154c79,#b55035,1,1
+'Versorgung',de,Energiekrise,#154c79,#679e2c,1,1
+'Energie',de,Energiekrise,#154c79,#a89216,1,1
+'Import',de,Energiekrise,#154c79,#87830f,1,1
+'Gasmangel',de,Energiekrise,#154c79,#bfba22,1,1
+'sparen',de,Energiekrise,#154c79,#7db344,1,1
+'Bürgergeld',de,Politik,#154c79,#d64118,1,1
+'Unterstützung',de,Politik,#154c79,#c4b03b,1,1
+'Olaf Scholz',de,Politik,#154c79,#3b4a63,1,1
+'Katar',de,Politik,#154c79,#61b00c,1,1
+'Sicherheit',de,Politik,#154c79,#477515,1,1
+'Industrie',de,Politik,#154c79,#802d16,1,1
