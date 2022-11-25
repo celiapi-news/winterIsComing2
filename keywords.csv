@@ -3,7 +3,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Versorgung',de,Energiekrise,#154c79,#679e2c,3,0.9413412663636364
 'Unterstützung',de,Politik,#154c79,#c4b03b,4,0.9407567428636364
 'Bürgergeld',de,Politik,#154c79,#d64118,5,0.9401021776590908
-'Winter',de,Winter,#154c79,#315fa8,2,0.9232237081818182
 'Katar',de,Politik,#154c79,#61b00c,4,0.9204720891363636
 'heizen',de,Energiekrise,#154c79,#b55035,2,0.9186007486363637
 'Pipeline',de, Russland, #154c79,#154c79,4,0.9094041617272726
@@ -14,6 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'sparen',de,Energiekrise,#154c79,#7db344,2,0.855021685
 'Gas',de,Winter,#154c79,#9e3215,2,0.855017245
 'Industrie',de,Politik,#154c79,#802d16,2,0.8549937249999999
+'Winter',de,Winter,#154c79,#315fa8,3,0.8534214805909092
 'Wladimir Putin',de, Russland,#154c79,#154c79,5,0.8265217405906816
 'frieren',de,Winter,#154c79,#638ed4,5,0.825756968840909
 'Gasmangel',de,Energiekrise,#154c79,#bfba22,3,0.7968387630897728
