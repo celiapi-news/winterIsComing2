@@ -6,7 +6,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bürgergeld',de,Politik,#154c79,#d64118,5,0.9401021776590908
 'Winter',de,Winter,#154c79,#315fa8,2,0.9232237081818182
 'Katar',de,Politik,#154c79,#61b00c,4,0.9204720891363636
-'Wladimir Putin',de, Russland,#154c79,#154c79,5,0.9130241883954544
 'Pipeline',de, Russland, #154c79,#154c79,4,0.9094041617272726
 'Olaf Scholz',de,Politik,#154c79,#3b4a63,4,0.9060801268181818
 'Sicherheit',de,Politik,#154c79,#477515,2,0.9004923854545455
@@ -16,6 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'sparen',de,Energiekrise,#154c79,#7db344,2,0.855021685
 'Gas',de,Winter,#154c79,#9e3215,2,0.855017245
 'Industrie',de,Politik,#154c79,#802d16,2,0.8549937249999999
+'Wladimir Putin',de, Russland,#154c79,#154c79,5,0.8265217405906816
 'frieren',de,Winter,#154c79,#638ed4,5,0.825756968840909
 'Krieg',de, Russland,#154c79,#154c79,4,0.7951635901409091
 'Saporischschja', de, Russland,#154c79,#154c79,1,0.7224999999999999
