@@ -2,7 +2,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pipeline',de,Russland,#bb3388,#154c79,1,0.9094041617272726
 'Bürgergeld',de,Politik,#22ee22,#d64118,2,0.8676952346465908
 'Energie',de,Energiekrise,#ee4422,#a89216,2,0.85505299
-'sparen',de,Energiekrise,#154c79,#7db344,2,0.855021685
 'Industrie',de,Politik,#22ee22,#802d16,2,0.8549937249999999
 'Winter',de,Winter,#154c79,#315fa8,3,0.8534214805909092
 'Versorgung',de,Energiekrise,#ee4422,#679e2c,4,0.8460280423181818
@@ -13,6 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Krieg',de,Russland,#bb3388,#154c79,1,0.7951635901409091
 'Katar',de,Politik,#22ee22,#61b00c,4,0.793266722514659
 'Ukraine',de,Russland,#bb3388,#154c79,2,0.7829310579090908
+'sparen',de,Energiekrise,#154c79,#7db344,3,0.7772488477045454
 'Unterstützung',de,Politik,#22ee22,#c4b03b,4,0.7704543993326136
 'Import',de,Energiekrise,#ee4422,#87830f,4,0.7302371468639772
 'Saporischschja',de,Russland,#bb3388,#154c79,1,0.7224999999999999
