@@ -1,6 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Saporischschja',de,Russland,#bb3388,#154c79,3,0.7047771472210813
-'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.6844698783545625
 'Energie',de,Energiekrise,#ee4422,#a89216,3,0.6829077284394317
 'heizen',de,Energiekrise,#ee4422,#b55035,3,0.6714699851288266
 'Industrie',de,Politik,#22ee22,#802d16,3,0.6686391997068607
@@ -10,6 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pipeline',de,Russland,#bb3388,#154c79,3,0.6441154813697941
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.6116371185871582
 'Krieg',de,Russland,#bb3388,#154c79,3,0.6108269818362531
+'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.6095100593286509
 'Olaf Scholz',de,Politik,#22ee22,#3b4a63,3,0.6093707087553952
 'Ukraine',de,Russland,#bb3388,#154c79,3,0.5990697622566021
 'Kreml',de,Russland,#bb3388,#154c79,3,0.5961241279965908
