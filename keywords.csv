@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie',de,Energiekrise,#ee4422,#a89216,3,0.6829077284394317
 'heizen',de,Energiekrise,#ee4422,#b55035,3,0.6666229182685935
 'Katar',de,Politik,#22ee22,#61b00c,3,0.6600591820168411
-'Bürgergeld',de,Politik,#22ee22,#d64118,3,0.6533779428658139
+'Bürgergeld',de,Politik,#22ee22,#d64118,3,0.6512441273450327
 'Pipeline',de,Russland,#bb3388,#154c79,3,0.6441154813697941
 'Wladimir Putin',de,Russland,#bb3388,#154c79,3,0.6235457500066577
 'Saporischschja',de,Russland,#bb3388,#154c79,3,0.6176639787742827
@@ -20,4 +20,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'frieren',de,Winter,#154c79,#638ed4,3,0.5430027664033157
 'Winter',de,Winter,#154c79,#315fa8,3,0.5166612163069128
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.3873688137358708
-'Dämmung',de,Winter,#154c79,#022f78,3,0.30074207112090895
+'Dämmung',de,Winter,#154c79,#022f78,3,0.3007420711209089
