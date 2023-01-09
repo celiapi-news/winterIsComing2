@@ -8,7 +8,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine',de,Russland,#bb3388,#154c79,3,0.4922465050651538
 'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.4866496899840712
 'Pipeline',de,Russland,#bb3388,#154c79,3,0.4861795282492678
-'Energie',de,Energiekrise,#ee4422,#a89216,3,0.4691131757264701
 'Bürgergeld',de,Politik,#22ee22,#d64118,3,0.4659307761105397
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.4655490709987053
 'Industrie',de,Politik,#22ee22,#802d16,3,0.4587945329513728
@@ -16,7 +15,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.4480769417830085
 'frieren',de,Winter,#154c79,#638ed4,3,0.4434123206573566
 'heizen',de,Energiekrise,#ee4422,#b55035,3,0.43778831349308
-'Sicherheit',de,Politik,#22ee22,#477515,3,0.41514077509235975
+'Energie',de,Energiekrise,#ee4422,#a89216,3,0.43104812664022685
+'Sicherheit',de,Politik,#22ee22,#477515,3,0.4151407750923597
 'Wladimir Putin',de,Russland,#bb3388,#154c79,3,0.4131088891532536
 'Winter',de,Winter,#154c79,#315fa8,3,0.3987779209133463
 'Gasmangel',de,Energiekrise,#ee4422,#bfba22,3,0.3707981238504997
