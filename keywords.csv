@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wladimir Putin',de,Russland,#bb3388,#154c79,3,0.4599336941353344
 'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.4492421450767286
 'Pipeline',de,Russland,#bb3388,#154c79,3,0.4140851392761977
-'Olaf Scholz',de,Politik,#22ee22,#3b4a63,3,0.39084366257794734
+'Olaf Scholz',de,Politik,#22ee22,#3b4a63,3,0.3908436625779473
 'Katar',de,Politik,#22ee22,#61b00c,3,0.3870439285244726
 'heizen',de,Energiekrise,#ee4422,#b55035,3,0.3807056706286599
 'sparen',de,Energiekrise,#154c79,#7db344,3,0.3656255787594864
@@ -13,11 +13,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie',de,Energiekrise,#ee4422,#a89216,3,0.3508248134922473
 'Bürgergeld',de,Politik,#22ee22,#d64118,3,0.3469443003638548
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.340099059650277
-'Import',de,Energiekrise,#ee4422,#87830f,3,0.3395724672855116
 'Gas',de,Winter,#154c79,#9e3215,3,0.3367200383113797
 'Winter',de,Winter,#154c79,#315fa8,3,0.3255089469888305
 'Ukraine',de,Russland,#bb3388,#154c79,3,0.3244816612051516
 'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.3218300635061588
+'Import',de,Energiekrise,#ee4422,#87830f,3,0.32086401946541215
 'frieren',de,Winter,#154c79,#638ed4,3,0.223738620239373
 'Gasmangel',de,Energiekrise,#ee4422,#bfba22,2,0.1388223996142016
 'Dämmung',de,Winter,#154c79,#022f78,2,0.1280795242266183
