@@ -1,8 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kreml',de,Russland,#bb3388,#154c79,3,0.5648617336402427
-'Krieg',de,Russland,#bb3388,#154c79,3,0.40928598577527747
+'Krieg',de,Russland,#bb3388,#154c79,3,0.4092859857752774
 'Saporischschja',de,Russland,#bb3388,#154c79,3,0.3939289776712202
 'Wladimir Putin',de,Russland,#bb3388,#154c79,3,0.3869467170096399
+'Winter',de,Winter,#154c79,#315fa8,3,0.3843864428965996
 'heizen',de,Energiekrise,#ee4422,#b55035,3,0.379352007898344
 'Katar',de,Politik,#22ee22,#61b00c,3,0.3760811024175916
 'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.3616488162947541
@@ -13,7 +14,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.352304560212696
 'Olaf Scholz',de,Politik,#22ee22,#3b4a63,3,0.3521188304579545
 'Pipeline',de,Russland,#bb3388,#154c79,3,0.3415316811019683
-'Winter',de,Winter,#154c79,#315fa8,3,0.3340478205200637
 'Gas',de,Winter,#154c79,#9e3215,3,0.3334335543901915
 'Energie',de,Energiekrise,#ee4422,#a89216,3,0.3309340266799668
 'Ukraine',de,Russland,#bb3388,#154c79,3,0.2426674450739772
