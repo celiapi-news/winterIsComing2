@@ -6,7 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie',de,Energiekrise,#ee4422,#a89216,3,0.3961046002535487
 'Winter',de,Winter,#154c79,#315fa8,3,0.3843864428965996
 'Saporischschja',de,Russland,#bb3388,#154c79,3,0.3692449888220019
-'heizen',de,Energiekrise,#ee4422,#b55035,3,0.3666607353656445
+'heizen',de,Energiekrise,#ee4422,#b55035,1,0.3666607353656445
 'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.3616488162947541
 'Industrie',de,Politik,#22ee22,#802d16,3,0.3560086099290682
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.3532127997936445
