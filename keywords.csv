@@ -1,12 +1,12 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Saporischschja',de,Russland,#bb3388,#154c79,3,0.4630401764080701
-'Kreml',de,Russland,#bb3388,#154c79,3,0.42446795444670105
+'Kreml',de,Russland,#bb3388,#154c79,3,0.424467954446701
 'Katar',de,Politik,#22ee22,#61b00c,3,0.3932593740840433
 'Energie',de,Energiekrise,#ee4422,#a89216,3,0.3880504811307105
 'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.3817890734093234
 'Wladimir Putin',de,Russland,#bb3388,#154c79,3,0.3762123078565775
-'heizen',de,Energiekrise,#ee4422,#b55035,1,0.3666607353656445
 'Olaf Scholz',de,Politik,#22ee22,#3b4a63,3,0.3657591251890821
+'heizen',de,Energiekrise,#ee4422,#b55035,2,0.3575294609698887
 'Industrie',de,Politik,#22ee22,#802d16,3,0.3560086099290682
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.3532127997936445
 'Krieg',de,Russland,#bb3388,#154c79,3,0.3499786480993049
