@@ -15,8 +15,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Krieg',de,Russland,#bb3388,#154c79,3,0.3122698193104578
 'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.2991331701867227
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.2982476346286274
-'Import',de,Energiekrise,#ee4422,#87830f,3,0.2920050938753005
 'heizen',de,Energiekrise,#ee4422,#b55035,3,0.2819918732891825
+'Import',de,Energiekrise,#ee4422,#87830f,3,0.2622515838849145
 'Dämmung',de,Winter,#154c79,#022f78,3,0.2178742436648845
 'Bürgergeld',de,Politik,#22ee22,#d64118,3,0.1873727667609628
 'frieren',de,Winter,#154c79,#638ed4,2,0.1397195068625061
