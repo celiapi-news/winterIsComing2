@@ -13,8 +13,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'sparen',de,Energiekrise,#154c79,#7db344,3,0.3193489855886409
 'heizen',de,Energiekrise,#ee4422,#b55035,3,0.3082888159321688
 'Katar',de,Politik,#22ee22,#61b00c,3,0.3026657408071057
-'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.2991331701867227
 'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.2798354173467067
+'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.2729559982950779
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.270007095470487
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.2585455544343333
 'Dämmung',de,Winter,#154c79,#022f78,3,0.2178742436648845
