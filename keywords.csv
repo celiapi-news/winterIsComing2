@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Saporischschja',de,Russland,#bb3388,#154c79,3,0.4692940933218887
 'Ukraine',de,Russland,#bb3388,#154c79,3,0.4331197816696049
-'Energie',de,Energiekrise,#ee4422,#a89216,3,0.42208885250019645
+'Energie',de,Energiekrise,#ee4422,#a89216,3,0.4220888525001964
 'Krieg',de,Russland,#bb3388,#154c79,3,0.4047874495210025
 'Wladimir Putin',de,Russland,#bb3388,#154c79,3,0.4046702090707575
 'Industrie',de,Politik,#22ee22,#802d16,3,0.3453068872649147
@@ -13,9 +13,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'sparen',de,Energiekrise,#154c79,#7db344,3,0.312808544113981
 'Katar',de,Politik,#22ee22,#61b00c,3,0.3026657408071057
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.297520088996456
+'Dämmung',de,Winter,#154c79,#022f78,3,0.27817853527706077
 'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.2729559982950779
 'heizen',de,Energiekrise,#ee4422,#b55035,3,0.2615167266911613
-'Dämmung',de,Winter,#154c79,#022f78,3,0.246576096047879
 'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.2349643102334053
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.2272564054364946
 'Bürgergeld',de,Politik,#22ee22,#d64118,3,0.2005822731104547
