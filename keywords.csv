@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Saporischschja',de,Russland,#bb3388,#154c79,3,0.5194411163483039
-'Ukraine',de,Russland,#bb3388,#154c79,3,0.42110580096097683
+'Ukraine',de,Russland,#bb3388,#154c79,3,0.4211058009609768
 'Olaf Scholz',de,Politik,#22ee22,#3b4a63,3,0.3796504721710625
 'Kreml',de,Russland,#bb3388,#154c79,3,0.3708567880627128
 'Gas',de,Winter,#154c79,#9e3215,3,0.3676588938279048
@@ -19,5 +19,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.2637807027893036
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.2510862743096727
 'Bürgergeld',de,Politik,#22ee22,#d64118,3,0.1875482490038099
-'frieren',de,Winter,#154c79,#638ed4,2,0.1410338891277254
+'frieren',de,Winter,#154c79,#638ed4,2,0.12937493530402114
 'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.0470911122356154
