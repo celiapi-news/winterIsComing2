@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Saporischschja',de,Russland,#bb3388,#154c79,3,0.49336423667528595
+'Saporischschja',de,Russland,#bb3388,#154c79,3,0.4933642366752859
 'Ukraine',de,Russland,#bb3388,#154c79,3,0.4211058009609768
 'Olaf Scholz',de,Politik,#22ee22,#3b4a63,3,0.3958752345272213
 'Kreml',de,Russland,#bb3388,#154c79,3,0.3708567880627128
@@ -10,11 +10,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wladimir Putin',de,Russland,#bb3388,#154c79,3,0.3215039283326961
 'Energie',de,Energiekrise,#ee4422,#a89216,3,0.317929139212914
 'Industrie',de,Politik,#22ee22,#802d16,3,0.3013655378971476
+'Katar',de,Politik,#22ee22,#61b00c,3,0.2998959727785883
 'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.2970151832227392
 'Winter',de,Winter,#154c79,#315fa8,3,0.2895839222832364
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.2838324738054465
 'Dämmung',de,Winter,#154c79,#022f78,3,0.2751651783368347
-'Katar',de,Politik,#22ee22,#61b00c,3,0.2667679642314943
 'heizen',de,Energiekrise,#ee4422,#b55035,3,0.2645873811656233
 'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.2637807027893036
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.2510862743096727
