@@ -15,9 +15,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.2756904689211464
 'Industrie',de,Politik,#22ee22,#802d16,3,0.2747799658489391
 'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.2515982563334536
+'Dämmung',de,Winter,#154c79,#022f78,3,0.2398409903126487
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.2385284531432839
-'Dämmung',de,Winter,#154c79,#022f78,3,0.2364416465863094
-'heizen',de,Energiekrise,#ee4422,#b55035,3,0.22238471493761733
+'heizen',de,Energiekrise,#ee4422,#b55035,3,0.2223847149376173
 'Bürgergeld',de,Politik,#22ee22,#d64118,3,0.1875482490038099
 'frieren',de,Winter,#154c79,#638ed4,2,0.0880826157973287
 'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.041377580400273
