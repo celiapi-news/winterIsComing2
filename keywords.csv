@@ -6,9 +6,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olaf Scholz',de,Politik,#22ee22,#3b4a63,3,0.3611205566063261
 'Krieg',de,Russland,#bb3388,#154c79,3,0.3429908349436359
 'sparen',de,Energiekrise,#154c79,#7db344,3,0.329976396587793
+'Gas',de,Winter,#154c79,#9e3215,3,0.32868523002521816
 'Wladimir Putin',de,Russland,#bb3388,#154c79,3,0.3215039283326961
 'Energie',de,Energiekrise,#ee4422,#a89216,3,0.317929139212914
-'Gas',de,Winter,#154c79,#9e3215,3,0.3166615593879572
 'Katar',de,Politik,#22ee22,#61b00c,3,0.2998959727785883
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.2838324738054465
 'Winter',de,Winter,#154c79,#315fa8,3,0.2829380807589327
@@ -16,7 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Industrie',de,Politik,#22ee22,#802d16,3,0.2747799658489391
 'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.2515982563334536
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.2486118010808822
-'Dämmung',de,Winter,#154c79,#022f78,3,0.24835404340997955
+'Dämmung',de,Winter,#154c79,#022f78,3,0.2483540434099795
 'heizen',de,Energiekrise,#ee4422,#b55035,3,0.2394408381515201
 'Bürgergeld',de,Politik,#22ee22,#d64118,3,0.1875482490038099
 'frieren',de,Winter,#154c79,#638ed4,2,0.0880826157973287
