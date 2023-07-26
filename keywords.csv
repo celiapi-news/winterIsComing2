@@ -16,8 +16,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Industrie',de,Politik,#22ee22,#802d16,3,0.2747799658489391
 'Winter',de,Winter,#154c79,#315fa8,3,0.2681982813723655
 'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.2551922992470719
+'heizen',de,Energiekrise,#ee4422,#b55035,3,0.23137247427175228
 'Bürgergeld',de,Politik,#22ee22,#d64118,3,0.2312591769961616
-'heizen',de,Energiekrise,#ee4422,#b55035,3,0.218243027485484
 'Dämmung',de,Winter,#154c79,#022f78,3,0.1464489759769282
 'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.0710157707753899
 'frieren',de,Winter,#154c79,#638ed4,2,0.0684482549135699
