@@ -3,11 +3,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kreml',de,Russland,#bb3388,#154c79,3,0.4007010726915768
 'Wladimir Putin',de,Russland,#bb3388,#154c79,3,0.3759800011868117
 'Ukraine',de,Russland,#bb3388,#154c79,3,0.3751591851191943
-'Gas',de,Winter,#154c79,#9e3215,3,0.3444399774166469
 'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.3431285518423491
 'Pipeline',de,Russland,#bb3388,#154c79,3,0.319729359555583
 'Olaf Scholz',de,Politik,#22ee22,#3b4a63,3,0.3190514777863427
 'Saporischschja',de,Russland,#bb3388,#154c79,3,0.3178860283764829
+'Gas',de,Winter,#154c79,#9e3215,3,0.3113821694405135
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.3039342074825226
 'Katar',de,Politik,#22ee22,#61b00c,3,0.2962344682254364
 'Bürgergeld',de,Politik,#22ee22,#d64118,3,0.2787967627194646
@@ -20,4 +20,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'heizen',de,Energiekrise,#ee4422,#b55035,3,0.2198048863128075
 'Dämmung',de,Winter,#154c79,#022f78,3,0.1314372742115123
 'frieren',de,Winter,#154c79,#638ed4,2,0.059597894370057
-'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.057742691720939376
+'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.0577426917209393
