@@ -2,11 +2,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wladimir Putin',de,Russland,#bb3388,#154c79,3,0.3820340118208061
 'Saporischschja',de,Russland,#bb3388,#154c79,3,0.3611766115212485
 'Kreml',de,Russland,#bb3388,#154c79,3,0.3568882187889768
-'Krieg',de,Russland,#bb3388,#154c79,3,0.35149298124251394
+'Krieg',de,Russland,#bb3388,#154c79,3,0.3514929812425139
 'Industrie',de,Politik,#22ee22,#802d16,3,0.3360323426563505
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.3228321474553864
 'sparen',de,Energiekrise,#154c79,#7db344,3,0.3192411772691303
 'Olaf Scholz',de,Politik,#22ee22,#3b4a63,3,0.3178619544813313
+'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.31039693656022693
 'Ukraine',de,Russland,#bb3388,#154c79,3,0.3034632470101503
 'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.2920373823491449
 'Winter',de,Winter,#154c79,#315fa8,3,0.2874931687119652
@@ -14,7 +15,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pipeline',de,Russland,#bb3388,#154c79,3,0.2776478247499958
 'Bürgergeld',de,Politik,#22ee22,#d64118,3,0.2768563629423956
 'Energie',de,Energiekrise,#ee4422,#a89216,3,0.2752474883309769
-'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.2736625809799461
 'Katar',de,Politik,#22ee22,#61b00c,3,0.2484216810125824
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.2419028271752705
 'heizen',de,Energiekrise,#ee4422,#b55035,3,0.1786042754950897
