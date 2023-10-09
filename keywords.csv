@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine',de,Russland,#bb3388,#154c79,3,0.3766744617837448
-'Krieg',de,Russland,#bb3388,#154c79,3,0.36075878237261816
+'Krieg',de,Russland,#bb3388,#154c79,3,0.3607587823726181
 'Energie',de,Energiekrise,#ee4422,#a89216,3,0.3142960209763984
 'Kreml',de,Russland,#bb3388,#154c79,3,0.3134349207183258
 'Olaf Scholz',de,Politik,#22ee22,#3b4a63,3,0.31207288929458
@@ -10,11 +10,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Industrie',de,Politik,#22ee22,#802d16,3,0.3043659846960881
 'Winter',de,Winter,#154c79,#315fa8,3,0.3014894146898493
 'Bürgergeld',de,Politik,#22ee22,#d64118,3,0.2937196249951306
+'Katar',de,Politik,#22ee22,#61b00c,3,0.2797589224970587
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.2794413703370784
 'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.2759326577240459
 'Pipeline',de,Russland,#bb3388,#154c79,3,0.2727734678556782
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.2486069187583314
-'Katar',de,Politik,#22ee22,#61b00c,3,0.2484216810125824
 'sparen',de,Energiekrise,#154c79,#7db344,3,0.2335902988381318
 'Saporischschja',de,Russland,#bb3388,#154c79,3,0.2315206762182992
 'heizen',de,Energiekrise,#ee4422,#b55035,3,0.1829278711145582
