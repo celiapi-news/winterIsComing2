@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olaf Scholz',de,Politik,#22ee22,#3b4a63,3,0.3401630177198794
 'Krieg',de,Russland,#bb3388,#154c79,3,0.3386092451169759
 'Kreml',de,Russland,#bb3388,#154c79,3,0.330481396701486
-'Winter',de,Winter,#154c79,#315fa8,3,0.3158021520318264
+'Winter',de,Winter,#154c79,#315fa8,3,0.32796839877250694
 'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.3103969365602269
 'Gas',de,Winter,#154c79,#9e3215,3,0.3101886037362069
 'Wladimir Putin',de,Russland,#bb3388,#154c79,3,0.3067421362030159
@@ -19,5 +19,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Saporischschja',de,Russland,#bb3388,#154c79,3,0.2315206762182992
 'heizen',de,Energiekrise,#ee4422,#b55035,3,0.1829278711145582
 'Dämmung',de,Winter,#154c79,#022f78,3,0.1526452119268629
-'frieren',de,Winter,#154c79,#638ed4,3,0.09499534479174045
+'frieren',de,Winter,#154c79,#638ed4,3,0.0949953447917404
 'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.0743681592910802
