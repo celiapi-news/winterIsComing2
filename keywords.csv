@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Bürgergeld',de,Politik,#22ee22,#d64118,3,0.3162971212133238
 'Gas',de,Winter,#154c79,#9e3215,3,0.3130209876914842
-'Bürgergeld',de,Politik,#22ee22,#d64118,3,0.3128033244220922
 'Kreml',de,Russland,#bb3388,#154c79,3,0.30690962591266
 'Industrie',de,Politik,#22ee22,#802d16,3,0.296478166201485
 'Winter',de,Winter,#154c79,#315fa8,3,0.2951608774075259
@@ -18,6 +18,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'sparen',de,Energiekrise,#154c79,#7db344,3,0.2200550552100315
 'heizen',de,Energiekrise,#ee4422,#b55035,3,0.2005367597101389
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.1650284392209678
-'frieren',de,Winter,#154c79,#638ed4,3,0.13930045134402957
+'frieren',de,Winter,#154c79,#638ed4,3,0.1393004513440295
 'Dämmung',de,Winter,#154c79,#022f78,3,0.0603841834670777
 'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.0457251685312742
