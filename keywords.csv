@@ -7,7 +7,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kreml',de,Russland,#bb3388,#154c79,3,0.2885646597530337
 'Wladimir Putin',de,Russland,#bb3388,#154c79,3,0.2746554505244649
 'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.2712112105991402
-'Bürgergeld',de,Politik,#22ee22,#d64118,3,0.26284754935604154
 'Energie',de,Energiekrise,#ee4422,#a89216,3,0.2591163331491364
 'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.2584723300381635
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.2578147732083309
@@ -15,6 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olaf Scholz',de,Politik,#22ee22,#3b4a63,3,0.2530978218283681
 'Saporischschja',de,Russland,#bb3388,#154c79,3,0.2526537285442047
 'Pipeline',de,Russland,#bb3388,#154c79,3,0.2339927268706886
+'Bürgergeld',de,Politik,#22ee22,#d64118,3,0.22838138195263527
 'sparen',de,Energiekrise,#154c79,#7db344,3,0.2200550552100315
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.1650284392209678
 'heizen',de,Energiekrise,#ee4422,#b55035,3,0.1620064112335542
