@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Saporischschja',de,Russland,#bb3388,#154c79,3,0.4162441115351679
+'Saporischschja',de,Russland,#bb3388,#154c79,3,0.4269458829867109
 'Kreml',de,Russland,#bb3388,#154c79,3,0.330497164751765
 'Katar',de,Politik,#22ee22,#61b00c,3,0.3243574978553087
 'Ukraine',de,Russland,#bb3388,#154c79,3,0.3162058798341678
@@ -18,6 +18,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'heizen',de,Energiekrise,#ee4422,#b55035,3,0.2283915533590336
 'sparen',de,Energiekrise,#154c79,#7db344,3,0.1909843583665204
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.1868604419886431
-'frieren',de,Winter,#154c79,#638ed4,3,0.17162343191424312
+'frieren',de,Winter,#154c79,#638ed4,3,0.1716234319142431
 'Dämmung',de,Winter,#154c79,#022f78,3,0.0667699269639333
 'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.040066513251583
