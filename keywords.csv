@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Kreml',de,Russland,#bb3388,#154c79,3,0.3394109063388195
 'Energie',de,Energiekrise,#ee4422,#a89216,3,0.3153700082963923
 'Ukraine',de,Russland,#bb3388,#154c79,3,0.3087149762773232
 'Industrie',de,Politik,#22ee22,#802d16,3,0.3030450476512257
+'Kreml',de,Russland,#bb3388,#154c79,3,0.2934673903879966
 'Wladimir Putin',de,Russland,#bb3388,#154c79,3,0.2801435620039259
 'Saporischschja',de,Russland,#bb3388,#154c79,3,0.2750918424874226
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.2712794630748372
@@ -16,7 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.2444058843904931
 'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.2276257779571329
 'Olaf Scholz',de,Politik,#22ee22,#3b4a63,3,0.2165915013110758
-'heizen',de,Energiekrise,#ee4422,#b55035,3,0.18813494138972262
+'heizen',de,Energiekrise,#ee4422,#b55035,3,0.1881349413897226
 'sparen',de,Energiekrise,#154c79,#7db344,3,0.1608502205561746
 'frieren',de,Winter,#154c79,#638ed4,2,0.1120571436803789
 'Dämmung',de,Winter,#154c79,#022f78,3,0.0799149307343189
