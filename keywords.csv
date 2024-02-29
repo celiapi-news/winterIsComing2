@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wladimir Putin',de,Russland,#bb3388,#154c79,3,0.310156270276802
 'Energie',de,Energiekrise,#ee4422,#a89216,3,0.2769279539711249
-'Katar',de,Politik,#22ee22,#61b00c,3,0.2763328701284582
 'Ukraine',de,Russland,#bb3388,#154c79,3,0.2691814960215721
 'Kreml',de,Russland,#bb3388,#154c79,3,0.264156116452206
+'Katar',de,Politik,#22ee22,#61b00c,3,0.26257347233646217
 'Bürgergeld',de,Politik,#22ee22,#d64118,3,0.2614672240362422
 'Krieg',de,Russland,#bb3388,#154c79,3,0.2612051987039192
 'Saporischschja',de,Russland,#bb3388,#154c79,3,0.2536191096958509
@@ -15,7 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.2097508659360316
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.1890112815718237
 'Industrie',de,Politik,#22ee22,#802d16,3,0.1813950564836516
-'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.15886792830789565
+'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.1588679283078956
 'sparen',de,Energiekrise,#154c79,#7db344,3,0.1550233204456515
 'heizen',de,Energiekrise,#ee4422,#b55035,3,0.1549642195474672
 'frieren',de,Winter,#154c79,#638ed4,2,0.120276962045616
