@@ -10,14 +10,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter',de,Winter,#154c79,#315fa8,3,0.24668636868649
 'Energie',de,Energiekrise,#ee4422,#a89216,3,0.2403902258754561
 'Pipeline',de,Russland,#bb3388,#154c79,3,0.2398303050095102
-'Olaf Scholz',de,Politik,#22ee22,#3b4a63,3,0.23895578652751914
+'Olaf Scholz',de,Politik,#22ee22,#3b4a63,3,0.2389557865275191
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.2362240889793362
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.2110673447905956
 'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.2106145983183541
 'heizen',de,Energiekrise,#ee4422,#b55035,3,0.1824907012366813
 'Industrie',de,Politik,#22ee22,#802d16,3,0.1813950564836516
+'Gasmangel',de,Energiekrise,#ee4422,#bfba22,2,0.16469723074902412
 'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.1588679283078956
 'sparen',de,Energiekrise,#154c79,#7db344,3,0.1413008719242583
 'frieren',de,Winter,#154c79,#638ed4,3,0.0945290135779575
 'Dämmung',de,Winter,#154c79,#022f78,3,0.0639568725992376
-'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.0508200949988519
