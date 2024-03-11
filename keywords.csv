@@ -14,9 +14,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.2116331653447335
 'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.2106145983183541
 'Energie',de,Energiekrise,#ee4422,#a89216,3,0.2093288519941377
+'heizen',de,Energiekrise,#ee4422,#b55035,3,0.18442346655259312
 'Industrie',de,Politik,#22ee22,#802d16,3,0.1813950564836516
-'heizen',de,Energiekrise,#ee4422,#b55035,3,0.1737075996875427
-'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.15829408221616983
+'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.1582940822161698
 'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.1523878779050408
 'sparen',de,Energiekrise,#154c79,#7db344,3,0.1413008719242583
 'Dämmung',de,Winter,#154c79,#022f78,3,0.0911324835275337
