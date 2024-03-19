@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bürgergeld',de,Politik,#22ee22,#d64118,3,0.31374624990166
-'Krieg',de,Russland,#bb3388,#154c79,3,0.3002118105077039
+'Krieg',de,Russland,#bb3388,#154c79,3,0.2875101812042756
 'Ukraine',de,Russland,#bb3388,#154c79,3,0.2773779546915448
 'Katar',de,Politik,#22ee22,#61b00c,3,0.2537301002894272
 'Kreml',de,Russland,#bb3388,#154c79,3,0.2524635748842835
@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olaf Scholz',de,Politik,#22ee22,#3b4a63,3,0.2389557865275191
 'Winter',de,Winter,#154c79,#315fa8,3,0.2373965361107892
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.2362240889793362
-'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.22577758965134997
+'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.2257775896513499
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.2234268264332435
 'heizen',de,Energiekrise,#ee4422,#b55035,3,0.208036546005702
 'Industrie',de,Politik,#22ee22,#802d16,3,0.2046160984656493
