@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Bürgergeld',de,Politik,#22ee22,#d64118,3,0.3308273298709828
+'Bürgergeld',de,Politik,#22ee22,#d64118,3,0.32706931129942624
 'Krieg',de,Russland,#bb3388,#154c79,3,0.3077683306019073
 'Ukraine',de,Russland,#bb3388,#154c79,3,0.3004949396964593
 'Energie',de,Energiekrise,#ee4422,#a89216,3,0.2941180170843088
@@ -19,5 +19,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'heizen',de,Energiekrise,#ee4422,#b55035,3,0.1756070173754833
 'sparen',de,Energiekrise,#154c79,#7db344,3,0.1232470809309918
 'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.0890606628684744
-'frieren',de,Winter,#154c79,#638ed4,3,0.08529572670536764
+'frieren',de,Winter,#154c79,#638ed4,3,0.0852957267053676
 'Dämmung',de,Winter,#154c79,#022f78,3,0.0761225781409893
