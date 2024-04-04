@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ukraine',de,Russland,#bb3388,#154c79,3,0.2935882462694971
 'Energie',de,Energiekrise,#ee4422,#a89216,3,0.2868111113398443
+'Ukraine',de,Russland,#bb3388,#154c79,3,0.2864501311472543
 'Krieg',de,Russland,#bb3388,#154c79,3,0.2723031226830453
 'Pipeline',de,Russland,#bb3388,#154c79,3,0.2692330870654985
 'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.2504577303987603
@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olaf Scholz',de,Politik,#22ee22,#3b4a63,3,0.2389557865275191
 'Gas',de,Winter,#154c79,#9e3215,3,0.2377716039040854
 'Wladimir Putin',de,Russland,#bb3388,#154c79,3,0.2272500131536076
-'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.20825586703079155
+'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.2082558670307915
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.2069922559640195
 'Industrie',de,Politik,#22ee22,#802d16,3,0.2046160984656493
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.1867253932343819
