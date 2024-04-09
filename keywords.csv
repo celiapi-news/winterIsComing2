@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Energie',de,Energiekrise,#ee4422,#a89216,3,0.30185621321860595
+'Energie',de,Energiekrise,#ee4422,#a89216,3,0.3018562132186059
 'Pipeline',de,Russland,#bb3388,#154c79,3,0.2923226350411863
 'Krieg',de,Russland,#bb3388,#154c79,3,0.2723031226830453
 'Ukraine',de,Russland,#bb3388,#154c79,3,0.270947221270353
@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.1832602325140931
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.1727611383401337
 'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.1635330162933831
-'sparen',de,Energiekrise,#154c79,#7db344,3,0.1339516469044596
+'sparen',de,Energiekrise,#154c79,#7db344,3,0.12793460895969974
 'frieren',de,Winter,#154c79,#638ed4,3,0.0869215951809917
 'Dämmung',de,Winter,#154c79,#022f78,2,0.0577173463775257
 'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.0498373573264864
