@@ -13,11 +13,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bürgergeld',de,Politik,#22ee22,#d64118,3,0.2229849890516788
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.2069922559640195
 'Industrie',de,Politik,#22ee22,#802d16,3,0.2046160984656493
-'heizen',de,Energiekrise,#ee4422,#b55035,3,0.19035775112196845
+'heizen',de,Energiekrise,#ee4422,#b55035,3,0.1903577511219684
 'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.1832602325140931
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.1727611383401337
 'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.1635330162933831
 'sparen',de,Energiekrise,#154c79,#7db344,3,0.1279346089596997
 'frieren',de,Winter,#154c79,#638ed4,3,0.0869215951809917
-'Dämmung',de,Winter,#154c79,#022f78,2,0.0577173463775257
+'Dämmung',de,Winter,#154c79,#022f78,3,0.052210554420896844
 'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.0498373573264864
