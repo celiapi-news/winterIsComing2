@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Katar',de,Politik,#22ee22,#61b00c,3,0.36793170419441795
+'Katar',de,Politik,#22ee22,#61b00c,3,0.3679317041944179
 'Kreml',de,Russland,#bb3388,#154c79,3,0.3664334210715526
 'Krieg',de,Russland,#bb3388,#154c79,3,0.315205814800963
 'Energie',de,Energiekrise,#ee4422,#a89216,3,0.3018868132864269
@@ -13,10 +13,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'sparen',de,Energiekrise,#154c79,#7db344,3,0.2175650796324739
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.2162302412700397
 'Bürgergeld',de,Politik,#22ee22,#d64118,3,0.2099214702536349
-'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.205583520283078
 'Winter',de,Winter,#154c79,#315fa8,3,0.2054093928656812
 'heizen',de,Energiekrise,#ee4422,#b55035,3,0.1964580223303202
 'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.1835620953642518
+'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.1797137672406163
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.1785913397945074
 'frieren',de,Winter,#154c79,#638ed4,2,0.0761908261923399
 'Dämmung',de,Winter,#154c79,#022f78,2,0.0276836064125687
