@@ -18,6 +18,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'sparen',de,Energiekrise,#154c79,#7db344,3,0.1899173526876028
 'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.1797137672406163
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.1785913397945074
-'frieren',de,Winter,#154c79,#638ed4,2,0.0761908261923399
+'frieren',de,Winter,#154c79,#638ed4,3,0.07426314726348891
 'Dämmung',de,Winter,#154c79,#022f78,2,0.0276836064125687
 'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.026977739481034
