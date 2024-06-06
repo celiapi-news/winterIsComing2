@@ -16,8 +16,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katar',de,Politik,#22ee22,#61b00c,3,0.2193990545668327
 'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.2057261095680014
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.2010881981653642
-'heizen',de,Energiekrise,#ee4422,#b55035,3,0.181310700500482
 'Winter',de,Winter,#154c79,#315fa8,3,0.1800356696327158
+'heizen',de,Energiekrise,#ee4422,#b55035,3,0.17270344406177335
 'Dämmung',de,Winter,#154c79,#022f78,2,0.0740094484108459
 'frieren',de,Winter,#154c79,#638ed4,2,0.0559972791511253
 'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.0148886167187214
