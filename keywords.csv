@@ -19,5 +19,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter',de,Winter,#154c79,#315fa8,3,0.1800356696327158
 'heizen',de,Energiekrise,#ee4422,#b55035,3,0.1630323826755402
 'Gasmangel',de,Energiekrise,#ee4422,#bfba22,2,0.1612070705792761
-'frieren',de,Winter,#154c79,#638ed4,2,0.0753480622784565
+'frieren',de,Winter,#154c79,#638ed4,1,0.06404627293668802
 'Dämmung',de,Winter,#154c79,#022f78,2,0.053211409518889
