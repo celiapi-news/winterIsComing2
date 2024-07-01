@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Krieg',de,Russland,#bb3388,#154c79,3,0.3674269220802765
 'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.3562705196372351
 'Bürgergeld',de,Politik,#22ee22,#d64118,3,0.355186762035889
-'Kreml',de,Russland,#bb3388,#154c79,3,0.33332190467255374
+'Kreml',de,Russland,#bb3388,#154c79,3,0.3333219046725537
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.3129245118660929
 'Pipeline',de,Russland,#bb3388,#154c79,3,0.3127754175871286
 'Ukraine',de,Russland,#bb3388,#154c79,3,0.2947888338788912
@@ -19,5 +19,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter',de,Winter,#154c79,#315fa8,3,0.1898192310059902
 'heizen',de,Energiekrise,#ee4422,#b55035,3,0.1373308544803304
 'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.1237406611464621
-'frieren',de,Winter,#154c79,#638ed4,2,0.0486690915436655
 'Dämmung',de,Winter,#154c79,#022f78,2,0.0433645050919836
+'frieren',de,Winter,#154c79,#638ed4,2,0.043169402812115676
