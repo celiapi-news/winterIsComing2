@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.2897891429373502
 'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.2777139665210806
 'Gas',de,Winter,#154c79,#9e3215,3,0.2699841222188059
-'sparen',de,Energiekrise,#154c79,#7db344,3,0.24324302548663085
+'sparen',de,Energiekrise,#154c79,#7db344,3,0.2432430254866308
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.2430800700958615
 'Energie',de,Energiekrise,#ee4422,#a89216,3,0.2424844160749495
 'Olaf Scholz',de,Politik,#22ee22,#3b4a63,3,0.2289719391694561
@@ -18,6 +18,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wladimir Putin',de,Russland,#bb3388,#154c79,3,0.2133366863762301
 'Winter',de,Winter,#154c79,#315fa8,3,0.1898192310059902
 'heizen',de,Energiekrise,#ee4422,#b55035,3,0.1444114690355535
-'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.0910677941783188
+'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.07785767005157097
 'Dämmung',de,Winter,#154c79,#022f78,2,0.0502946553735585
 'frieren',de,Winter,#154c79,#638ed4,2,0.0471211736682783
