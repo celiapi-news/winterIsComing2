@@ -6,7 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pipeline',de,Russland,#bb3388,#154c79,3,0.3191274856203278
 'Energie',de,Energiekrise,#ee4422,#a89216,3,0.3123985557970283
 'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.30976734937544
-'Kreml',de,Russland,#bb3388,#154c79,3,0.3025999048389395
+'Kreml',de,Russland,#bb3388,#154c79,3,0.2940024609312804
 'Industrie',de,Politik,#22ee22,#802d16,3,0.2837349598863506
 'Wladimir Putin',de,Russland,#bb3388,#154c79,3,0.2772289493288865
 'Gas',de,Winter,#154c79,#9e3215,3,0.2747062045076327
@@ -19,5 +19,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'heizen',de,Energiekrise,#ee4422,#b55035,3,0.1929589404264377
 'Winter',de,Winter,#154c79,#315fa8,3,0.1792976403563733
 'frieren',de,Winter,#154c79,#638ed4,2,0.0511733792957775
-'Dämmung',de,Winter,#154c79,#022f78,2,0.04195225760401026
+'Dämmung',de,Winter,#154c79,#022f78,2,0.0419522576040102
 'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.0076235005626718
