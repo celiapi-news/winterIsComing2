@@ -15,9 +15,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olaf Scholz',de,Politik,#22ee22,#3b4a63,3,0.2495117277683063
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.2298487127633004
 'Katar',de,Politik,#22ee22,#61b00c,3,0.216560943853059
-'heizen',de,Energiekrise,#ee4422,#b55035,3,0.20164572370751216
+'heizen',de,Energiekrise,#ee4422,#b55035,3,0.2016457237075121
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.1950815988983163
 'Winter',de,Winter,#154c79,#315fa8,3,0.1792976403563733
+'frieren',de,Winter,#154c79,#638ed4,2,0.10705025295095949
 'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.095871004248879
 'Dämmung',de,Winter,#154c79,#022f78,3,0.0638978939634086
-'frieren',de,Winter,#154c79,#638ed4,2,0.0399030350225192
