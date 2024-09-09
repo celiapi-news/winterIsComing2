@@ -2,8 +2,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kreml',de,Russland,#bb3388,#154c79,3,0.429833202621553
 'Krieg',de,Russland,#bb3388,#154c79,3,0.3670615267921903
 'Saporischschja',de,Russland,#bb3388,#154c79,3,0.3358376965049255
+'Ukraine',de,Russland,#bb3388,#154c79,3,0.3054260320367706
 'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.3012689657307629
-'Ukraine',de,Russland,#bb3388,#154c79,3,0.294565978866789
 'sparen',de,Energiekrise,#154c79,#7db344,3,0.2928929704411123
 'Bürgergeld',de,Politik,#22ee22,#d64118,3,0.2885066492735888
 'Pipeline',de,Russland,#bb3388,#154c79,3,0.2851898693152322
@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas',de,Winter,#154c79,#9e3215,3,0.2622559043034771
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.2494886141198322
 'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.2486630863067266
-'Olaf Scholz',de,Politik,#22ee22,#3b4a63,3,0.24479118680809533
+'Olaf Scholz',de,Politik,#22ee22,#3b4a63,3,0.2447911868080953
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.2298487127633004
 'Winter',de,Winter,#154c79,#315fa8,3,0.2282896342029342
 'Katar',de,Politik,#22ee22,#61b00c,3,0.216560943853059
