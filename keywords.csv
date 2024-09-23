@@ -12,12 +12,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'sparen',de,Energiekrise,#154c79,#7db344,3,0.2506115589164309
 'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.2486630863067266
 'Olaf Scholz',de,Politik,#22ee22,#3b4a63,3,0.2403355710596082
-'Gasmangel',de,Energiekrise,#ee4422,#bfba22,2,0.23558424413325138
+'Gasmangel',de,Energiekrise,#ee4422,#bfba22,2,0.2355842441332513
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.2322471076669871
 'heizen',de,Energiekrise,#ee4422,#b55035,3,0.2170506713881209
 'Katar',de,Politik,#22ee22,#61b00c,3,0.2072202604569183
 'Winter',de,Winter,#154c79,#315fa8,3,0.1987813934202817
 'Industrie',de,Politik,#22ee22,#802d16,3,0.1924934383567562
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.1846458675447604
-'frieren',de,Winter,#154c79,#638ed4,1,0.0757966461441603
+'frieren',de,Winter,#154c79,#638ed4,2,0.08469899779396482
 'Dämmung',de,Winter,#154c79,#022f78,2,0.0579295231371131
