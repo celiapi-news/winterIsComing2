@@ -11,11 +11,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie',de,Energiekrise,#ee4422,#a89216,3,0.2680056962669195
 'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.2643872837078139
 'Gas',de,Winter,#154c79,#9e3215,3,0.2622559043034771
-'Gasmangel',de,Energiekrise,#ee4422,#bfba22,2,0.2355842441332513
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.2322471076669871
 'Industrie',de,Politik,#22ee22,#802d16,3,0.2322346612396064
 'Katar',de,Politik,#22ee22,#61b00c,3,0.2083677036611078
 'heizen',de,Energiekrise,#ee4422,#b55035,3,0.2021188814642809
+'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.20024668251326358
 'Olaf Scholz',de,Politik,#22ee22,#3b4a63,3,0.195217720187209
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.1800833555948645
 'Winter',de,Winter,#154c79,#315fa8,3,0.1784871789526939
