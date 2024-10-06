@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wladimir Putin',de,Russland,#bb3388,#154c79,3,0.3724098705319218
-'Ukraine',de,Russland,#bb3388,#154c79,3,0.36754924438071573
+'Ukraine',de,Russland,#bb3388,#154c79,3,0.3675492443807157
 'Bürgergeld',de,Politik,#22ee22,#d64118,3,0.3473475004332168
 'Kreml',de,Russland,#bb3388,#154c79,3,0.3349936997989231
 'Saporischschja',de,Russland,#bb3388,#154c79,3,0.2833320405332343
@@ -8,9 +8,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Krieg',de,Russland,#bb3388,#154c79,3,0.2775792324473385
 'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.2709661029061721
 'Energie',de,Energiekrise,#ee4422,#a89216,3,0.2680056962669195
-'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.2643872837078139
 'Gas',de,Winter,#154c79,#9e3215,3,0.2622559043034771
 'Pipeline',de,Russland,#bb3388,#154c79,3,0.2595822012320588
+'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.25242455387891455
 'Industrie',de,Politik,#22ee22,#802d16,3,0.2322346612396064
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.2115590106078481
 'Katar',de,Politik,#22ee22,#61b00c,3,0.2083677036611078
