@@ -10,7 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie',de,Energiekrise,#ee4422,#a89216,3,0.2680056962669195
 'Gas',de,Winter,#154c79,#9e3215,3,0.2622559043034771
 'Pipeline',de,Russland,#bb3388,#154c79,3,0.2595822012320588
-'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.25242455387891455
+'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.2524245538789145
 'Industrie',de,Politik,#22ee22,#802d16,3,0.2322346612396064
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.2115590106078481
 'Katar',de,Politik,#22ee22,#61b00c,3,0.2083677036611078
@@ -20,4 +20,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.1800833555948645
 'Winter',de,Winter,#154c79,#315fa8,3,0.1784871789526939
 'frieren',de,Winter,#154c79,#638ed4,1,0.0735208584061394
-'Dämmung',de,Winter,#154c79,#022f78,2,0.0508012455183424
+'Dämmung',de,Winter,#154c79,#022f78,2,0.04498173369059104
