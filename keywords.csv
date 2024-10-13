@@ -10,7 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kreml',de,Russland,#bb3388,#154c79,3,0.2653766524239002
 'Gas',de,Winter,#154c79,#9e3215,3,0.2622559043034771
 'Pipeline',de,Russland,#bb3388,#154c79,3,0.2595822012320588
-'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.2524245538789145
+'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.24225725352435004
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.2348801440166708
 'Industrie',de,Politik,#22ee22,#802d16,3,0.2296491593263927
 'Katar',de,Politik,#22ee22,#61b00c,3,0.2083677036611078
@@ -18,6 +18,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'heizen',de,Energiekrise,#ee4422,#b55035,3,0.183540253849706
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.1800833555948645
 'Winter',de,Winter,#154c79,#315fa8,3,0.1784871789526939
-'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.10692022756056413
+'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.1069202275605641
 'frieren',de,Winter,#154c79,#638ed4,2,0.0762248335948066
 'Dämmung',de,Winter,#154c79,#022f78,2,0.0459484593545198
