@@ -1,8 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Krieg',de,Russland,#bb3388,#154c79,3,0.3922096262276473
 'Saporischschja',de,Russland,#bb3388,#154c79,3,0.3525148367451
-'Bürgergeld',de,Politik,#22ee22,#d64118,3,0.3075640961001082
-'sparen',de,Energiekrise,#154c79,#7db344,3,0.29759476010825203
+'sparen',de,Energiekrise,#154c79,#7db344,3,0.297594760108252
 'Wladimir Putin',de,Russland,#bb3388,#154c79,3,0.292303569937806
 'Pipeline',de,Russland,#bb3388,#154c79,3,0.284688405138159
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.2769955580065901
@@ -11,6 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine',de,Russland,#bb3388,#154c79,3,0.2749991745851471
 'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.2709661029061721
 'Katar',de,Politik,#22ee22,#61b00c,3,0.2694846381678776
+'Bürgergeld',de,Politik,#22ee22,#d64118,3,0.26638636668509197
 'Kreml',de,Russland,#bb3388,#154c79,3,0.2653766524239002
 'Energie',de,Energiekrise,#ee4422,#a89216,3,0.2481817676585582
 'Industrie',de,Politik,#22ee22,#802d16,3,0.2296491593263927
