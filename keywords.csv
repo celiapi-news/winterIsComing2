@@ -11,7 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bürgergeld',de,Politik,#22ee22,#d64118,3,0.2663863666850919
 'Pipeline',de,Russland,#bb3388,#154c79,3,0.2632588498714107
 'heizen',de,Energiekrise,#ee4422,#b55035,3,0.2499723950031107
-'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.2490838646808686
+'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.2485096717969201
 'Energie',de,Energiekrise,#ee4422,#a89216,3,0.2481817676585582
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.2404934993056015
 'Industrie',de,Politik,#22ee22,#802d16,3,0.2296491593263927
@@ -19,5 +19,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.1734095450826372
 'Winter',de,Winter,#154c79,#315fa8,3,0.1627133953387758
 'frieren',de,Winter,#154c79,#638ed4,2,0.088725982611069
-'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.05661508223553661
+'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.0566150822355366
 'Dämmung',de,Winter,#154c79,#022f78,2,0.0480874087094529
