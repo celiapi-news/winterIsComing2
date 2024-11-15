@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katar',de,Politik,#22ee22,#61b00c,3,0.3722559227512114
-'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.32174534383388265
+'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.3217453438338826
 'Bürgergeld',de,Politik,#22ee22,#d64118,3,0.3117849364965687
 'Ukraine',de,Russland,#bb3388,#154c79,3,0.3105635581640982
 'Saporischschja',de,Russland,#bb3388,#154c79,3,0.2929776307150754
@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'heizen',de,Energiekrise,#ee4422,#b55035,3,0.2013611384806565
 'Olaf Scholz',de,Politik,#22ee22,#3b4a63,3,0.199925082212565
 'Winter',de,Winter,#154c79,#315fa8,3,0.1816842179306074
-'Import',de,Energiekrise,#ee4422,#87830f,3,0.1387471449591569
+'Import',de,Energiekrise,#ee4422,#87830f,3,0.13197926730619247
 'frieren',de,Winter,#154c79,#638ed4,3,0.0868863480566564
 'Dämmung',de,Winter,#154c79,#022f78,2,0.0834288869819736
 'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.0409043969151751
