@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Olaf Scholz',de,Politik,#22ee22,#3b4a63,3,0.3375834157622145
+'Olaf Scholz',de,Politik,#22ee22,#3b4a63,3,0.33287009430697323
 'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.3138618627154346
 'Ukraine',de,Russland,#bb3388,#154c79,3,0.3105635581640982
 'Bürgergeld',de,Politik,#22ee22,#d64118,3,0.2730743532551344
@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.2553519507710243
 'Energie',de,Energiekrise,#ee4422,#a89216,3,0.2481817676585582
 'Krieg',de,Russland,#bb3388,#154c79,3,0.2476851651779107
-'Saporischschja',de,Russland,#bb3388,#154c79,3,0.24552251542074305
+'Saporischschja',de,Russland,#bb3388,#154c79,3,0.245522515420743
 'sparen',de,Energiekrise,#154c79,#7db344,3,0.2378257736287529
 'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.2342854965098613
 'heizen',de,Energiekrise,#ee4422,#b55035,3,0.2316944980977288
