@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'sparen',de,Energiekrise,#154c79,#7db344,3,0.2480500884935308
 'Krieg',de,Russland,#bb3388,#154c79,3,0.2476851651779107
 'Saporischschja',de,Russland,#bb3388,#154c79,3,0.245522515420743
-'Industrie',de,Politik,#22ee22,#802d16,3,0.24210026403332183
+'Industrie',de,Politik,#22ee22,#802d16,3,0.2421002640333218
 'heizen',de,Energiekrise,#ee4422,#b55035,3,0.2382584747467058
 'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.2268347947606548
 'Wladimir Putin',de,Russland,#bb3388,#154c79,3,0.2262510502551352
@@ -20,4 +20,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'frieren',de,Winter,#154c79,#638ed4,3,0.1371625801982069
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.1171354672102635
 'Dämmung',de,Winter,#154c79,#022f78,2,0.0930210514898496
-'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.0684529960055318
+'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.05863509160470203
