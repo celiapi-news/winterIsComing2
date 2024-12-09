@@ -3,6 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olaf Scholz',de,Politik,#22ee22,#3b4a63,3,0.3509481766480311
 'Ukraine',de,Russland,#bb3388,#154c79,3,0.3442741639584457
 'Krieg',de,Russland,#bb3388,#154c79,3,0.3357585055910404
+'sparen',de,Energiekrise,#154c79,#7db344,3,0.27896293146881684
 'Bürgergeld',de,Politik,#22ee22,#d64118,3,0.2786009144155366
 'Pipeline',de,Russland,#bb3388,#154c79,3,0.2650872287543354
 'Gas',de,Winter,#154c79,#9e3215,3,0.2645966416437724
@@ -10,7 +11,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.2504578102818894
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.2493536354280979
 'Industrie',de,Politik,#22ee22,#802d16,3,0.2421002640333218
-'sparen',de,Energiekrise,#154c79,#7db344,3,0.2420990685729396
 'Saporischschja',de,Russland,#bb3388,#154c79,3,0.2409211553803588
 'Energie',de,Energiekrise,#ee4422,#a89216,3,0.2386758902370472
 'Wladimir Putin',de,Russland,#bb3388,#154c79,3,0.2262510502551352
