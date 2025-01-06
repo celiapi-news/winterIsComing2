@@ -8,7 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.2897191528411559
 'Olaf Scholz',de,Politik,#22ee22,#3b4a63,3,0.2882902562727975
 'Industrie',de,Politik,#22ee22,#802d16,3,0.2688654471968455
-'Katar',de,Politik,#22ee22,#61b00c,3,0.2648095610829072
+'Katar',de,Politik,#22ee22,#61b00c,3,0.2664099832841075
 'sparen',de,Energiekrise,#154c79,#7db344,3,0.2588667863678324
 'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.2517434535336834
 'Bürgergeld',de,Politik,#22ee22,#d64118,3,0.2459317567291587
@@ -20,4 +20,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'frieren',de,Winter,#154c79,#638ed4,3,0.1707637287713551
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.1553462742788626
 'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.0561316843005001
-'Dämmung',de,Winter,#154c79,#022f78,2,0.038532586158949604
+'Dämmung',de,Winter,#154c79,#022f78,2,0.0385325861589496
