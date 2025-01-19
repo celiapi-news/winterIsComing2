@@ -9,15 +9,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katar',de,Politik,#22ee22,#61b00c,3,0.2859503303369459
 'Kreml',de,Russland,#bb3388,#154c79,3,0.2849387626548419
 'Industrie',de,Politik,#22ee22,#802d16,3,0.2789681355718641
+'frieren',de,Winter,#154c79,#638ed4,3,0.26682382168284474
 'Wladimir Putin',de,Russland,#bb3388,#154c79,3,0.2624520737936166
 'sparen',de,Energiekrise,#154c79,#7db344,3,0.2588667863678324
 'Winter',de,Winter,#154c79,#315fa8,3,0.2529540221201209
 'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.2453184899153547
-'frieren',de,Winter,#154c79,#638ed4,3,0.2439141025145767
 'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.237212123685449
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.2186398546777351
 'Energie',de,Energiekrise,#ee4422,#a89216,3,0.2178137070826301
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.2065304952521868
 'heizen',de,Energiekrise,#ee4422,#b55035,3,0.1890457406872113
-'Gasmangel',de,Energiekrise,#ee4422,#bfba22,2,0.08580452786272653
+'Gasmangel',de,Energiekrise,#ee4422,#bfba22,2,0.0858045278627265
 'Dämmung',de,Winter,#154c79,#022f78,2,0.0426259964771137
