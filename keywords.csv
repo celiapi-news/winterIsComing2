@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Saporischschja',de,Russland,#bb3388,#154c79,3,0.4126503443340805
 'Olaf Scholz',de,Politik,#22ee22,#3b4a63,3,0.3818641146500596
-'Gas',de,Winter,#154c79,#9e3215,3,0.33718202106104944
+'Gas',de,Winter,#154c79,#9e3215,3,0.3371820210610494
 'Ukraine',de,Russland,#bb3388,#154c79,3,0.314534588079846
 'Bürgergeld',de,Politik,#22ee22,#d64118,3,0.3057196301004534
 'Krieg',de,Russland,#bb3388,#154c79,3,0.2986441728959587
@@ -14,9 +14,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter',de,Winter,#154c79,#315fa8,3,0.2529540221201209
 'sparen',de,Energiekrise,#154c79,#7db344,3,0.2522898556853847
 'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.2453184899153547
+'Energie',de,Energiekrise,#ee4422,#a89216,3,0.24013066602023558
 'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.237212123685449
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.2186398546777351
-'Energie',de,Energiekrise,#ee4422,#a89216,3,0.2178137070826301
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.2065304952521868
 'heizen',de,Energiekrise,#ee4422,#b55035,3,0.1890457406872113
 'Gasmangel',de,Energiekrise,#ee4422,#bfba22,2,0.0858045278627265
