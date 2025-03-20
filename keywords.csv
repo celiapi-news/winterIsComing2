@@ -13,11 +13,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'sparen',de,Energiekrise,#154c79,#7db344,3,0.2217112930369151
 'Kreml',de,Russland,#bb3388,#154c79,3,0.2193097778567889
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.2128894180636058
-'Sicherheit',de,Politik,#22ee22,#477515,3,0.21014526477189305
+'Sicherheit',de,Politik,#22ee22,#477515,3,0.210145264771893
 'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.1996513445356569
 'Energie',de,Energiekrise,#ee4422,#a89216,3,0.1880783794355555
 'heizen',de,Energiekrise,#ee4422,#b55035,3,0.186430894060719
 'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.1841737967018742
 'frieren',de,Winter,#154c79,#638ed4,2,0.1060058547752002
-'Dämmung',de,Winter,#154c79,#022f78,2,0.0763592182078203
+'Dämmung',de,Winter,#154c79,#022f78,2,0.06550589047664725
 'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.0035669236590456
