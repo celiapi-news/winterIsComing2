@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pipeline',de,Russland,#bb3388,#154c79,3,0.5032375690618336
-'Wladimir Putin',de,Russland,#bb3388,#154c79,3,0.4367447158691494
+'Wladimir Putin',de,Russland,#bb3388,#154c79,3,0.476223853488777
 'Saporischschja',de,Russland,#bb3388,#154c79,3,0.4223152201476913
 'Ukraine',de,Russland,#bb3388,#154c79,3,0.4213485865397389
 'Krieg',de,Russland,#bb3388,#154c79,3,0.3299576722509408
@@ -20,4 +20,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.1841737967018742
 'frieren',de,Winter,#154c79,#638ed4,2,0.1060058547752002
 'Dämmung',de,Winter,#154c79,#022f78,2,0.0655058904766472
-'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.002576450579611255
+'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.0025764505796112
