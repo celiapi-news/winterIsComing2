@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Wladimir Putin',de,Russland,#bb3388,#154c79,3,0.5416006522836423
+'Wladimir Putin',de,Russland,#bb3388,#154c79,3,0.5062621853501869
 'Saporischschja',de,Russland,#bb3388,#154c79,3,0.4272471737612524
 'Ukraine',de,Russland,#bb3388,#154c79,3,0.4213485865397389
 'Pipeline',de,Russland,#bb3388,#154c79,3,0.3927576281471747
@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.2495455489904285
 'Energie',de,Energiekrise,#ee4422,#a89216,3,0.2466783193384039
 'Bürgergeld',de,Politik,#22ee22,#d64118,3,0.2409982936153387
-'heizen',de,Energiekrise,#ee4422,#b55035,3,0.23249504684523312
+'heizen',de,Energiekrise,#ee4422,#b55035,3,0.2324950468452331
 'sparen',de,Energiekrise,#154c79,#7db344,3,0.2217112930369151
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.210145264771893
 'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.1996513445356569
