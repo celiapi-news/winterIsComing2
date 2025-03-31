@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Saporischschja',de,Russland,#bb3388,#154c79,3,0.4849035508379594
-'Kreml',de,Russland,#bb3388,#154c79,3,0.45978034667322376
+'Kreml',de,Russland,#bb3388,#154c79,3,0.4597803466732237
 'Wladimir Putin',de,Russland,#bb3388,#154c79,3,0.4341834536725016
 'Ukraine',de,Russland,#bb3388,#154c79,3,0.4213485865397389
 'Pipeline',de,Russland,#bb3388,#154c79,3,0.3927576281471747
@@ -20,4 +20,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.1688981757749653
 'frieren',de,Winter,#154c79,#638ed4,2,0.0850665823359516
 'Dämmung',de,Winter,#154c79,#022f78,2,0.0741288071371851
-'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.0023399979926695
+'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.0021390132937690745
