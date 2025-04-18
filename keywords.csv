@@ -8,16 +8,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas',de,Winter,#154c79,#9e3215,3,0.2607821727711983
 'Olaf Scholz',de,Politik,#22ee22,#3b4a63,3,0.2595970723877461
 'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.2542344327015966
-'Energie',de,Energiekrise,#ee4422,#a89216,3,0.247172428244379
 'Industrie',de,Politik,#22ee22,#802d16,3,0.2435538444041089
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.2407011096407922
 'Winter',de,Winter,#154c79,#315fa8,3,0.2380353385580705
 'Pipeline',de,Russland,#bb3388,#154c79,3,0.2353885082195501
 'Katar',de,Politik,#22ee22,#61b00c,3,0.2347015527575267
+'Energie',de,Energiekrise,#ee4422,#a89216,3,0.22418880309863123
 'sparen',de,Energiekrise,#154c79,#7db344,3,0.2070777127177414
 'heizen',de,Energiekrise,#ee4422,#b55035,3,0.1797521904728271
 'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.1726344155204562
-'Sicherheit',de,Politik,#22ee22,#477515,3,0.14861781940872051
+'Sicherheit',de,Politik,#22ee22,#477515,3,0.1486178194087205
 'frieren',de,Winter,#154c79,#638ed4,2,0.0670551139980061
 'Dämmung',de,Winter,#154c79,#022f78,2,0.0441680222711737
 'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.0014446048575554
