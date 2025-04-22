@@ -14,10 +14,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pipeline',de,Russland,#bb3388,#154c79,3,0.2353885082195501
 'Katar',de,Politik,#22ee22,#61b00c,3,0.2347015527575267
 'Energie',de,Energiekrise,#ee4422,#a89216,3,0.2241888030986312
+'Sicherheit',de,Politik,#22ee22,#477515,3,0.2112857291671077
 'sparen',de,Energiekrise,#154c79,#7db344,3,0.2070777127177414
-'heizen',de,Energiekrise,#ee4422,#b55035,3,0.17915468635935214
+'heizen',de,Energiekrise,#ee4422,#b55035,3,0.1791546863593521
 'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.1653414268287514
-'Sicherheit',de,Politik,#22ee22,#477515,3,0.1517217375228005
 'frieren',de,Winter,#154c79,#638ed4,2,0.0670551139980061
 'Dämmung',de,Winter,#154c79,#022f78,2,0.0424936439304976
 'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.0014446048575554
