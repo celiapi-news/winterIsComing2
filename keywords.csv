@@ -16,8 +16,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pipeline',de,Russland,#bb3388,#154c79,3,0.2192334244386249
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.2112857291671077
 'sparen',de,Energiekrise,#154c79,#7db344,3,0.2070777127177414
+'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.1682332355317114
 'heizen',de,Energiekrise,#ee4422,#b55035,3,0.1663251674963583
-'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.1653414268287514
 'frieren',de,Winter,#154c79,#638ed4,2,0.0691966979544684
 'Dämmung',de,Winter,#154c79,#022f78,2,0.0282500226788167
-'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.0008871679581460599
+'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.000887167958146
