@@ -9,15 +9,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Krieg',de,Russland,#bb3388,#154c79,3,0.2631578699058501
 'Olaf Scholz',de,Politik,#22ee22,#3b4a63,3,0.2595970723877461
 'Bürgergeld',de,Politik,#22ee22,#d64118,3,0.2377557101053491
-'Energie',de,Energiekrise,#ee4422,#a89216,3,0.2241888030986312
 'Katar',de,Politik,#22ee22,#61b00c,3,0.2239654255945856
 'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.223464647331449
 'Pipeline',de,Russland,#bb3388,#154c79,3,0.2192334244386249
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.2112857291671077
 'sparen',de,Energiekrise,#154c79,#7db344,3,0.2070777127177414
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.20144927604244
+'Energie',de,Energiekrise,#ee4422,#a89216,3,0.20010051717929106
 'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.1682332355317114
 'heizen',de,Energiekrise,#ee4422,#b55035,3,0.1663251674963583
-'frieren',de,Winter,#154c79,#638ed4,2,0.05123467405742421
+'frieren',de,Winter,#154c79,#638ed4,2,0.0512346740574242
 'Dämmung',de,Winter,#154c79,#022f78,2,0.0258716831354449
 'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.0007540927644241
