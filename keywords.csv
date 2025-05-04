@@ -11,13 +11,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pipeline',de,Russland,#bb3388,#154c79,3,0.2458465653182857
 'Bürgergeld',de,Politik,#22ee22,#d64118,3,0.2377557101053491
 'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.223464647331449
+'sparen',de,Energiekrise,#154c79,#7db344,3,0.212814072628262
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.2112857291671077
-'sparen',de,Energiekrise,#154c79,#7db344,3,0.2070777127177414
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.20144927604244
 'Energie',de,Energiekrise,#ee4422,#a89216,3,0.200100517179291
 'Katar',de,Politik,#22ee22,#61b00c,3,0.1953255017553977
 'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.1682332355317114
 'heizen',de,Energiekrise,#ee4422,#b55035,3,0.1663251674963583
-'frieren',de,Winter,#154c79,#638ed4,2,0.04850002794881057
+'frieren',de,Winter,#154c79,#638ed4,2,0.0485000279488105
 'Dämmung',de,Winter,#154c79,#022f78,2,0.0258716831354449
 'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.0007540927644241
