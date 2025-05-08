@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kreml',de,Russland,#bb3388,#154c79,3,0.4405620671874768
+'Saporischschja',de,Russland,#bb3388,#154c79,3,0.36071502792166027
 'Ukraine',de,Russland,#bb3388,#154c79,3,0.3525850803071544
 'Wladimir Putin',de,Russland,#bb3388,#154c79,3,0.3247771472677643
-'Saporischschja',de,Russland,#bb3388,#154c79,3,0.3115839964853757
 'Gas',de,Winter,#154c79,#9e3215,3,0.2968304254901006
 'Winter',de,Winter,#154c79,#315fa8,3,0.2904690568919749
 'Krieg',de,Russland,#bb3388,#154c79,3,0.2832572839654271
@@ -15,7 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katar',de,Politik,#22ee22,#61b00c,3,0.2164365919466335
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.2112857291671077
 'sparen',de,Energiekrise,#154c79,#7db344,3,0.2085980044612954
-'heizen',de,Energiekrise,#ee4422,#b55035,3,0.20478664097066432
+'heizen',de,Energiekrise,#ee4422,#b55035,3,0.2047866409706643
 'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.184326691565591
 'Energie',de,Energiekrise,#ee4422,#a89216,3,0.1841690836933064
 'frieren',de,Winter,#154c79,#638ed4,2,0.0485000279488105
