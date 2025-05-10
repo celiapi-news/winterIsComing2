@@ -4,9 +4,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Saporischschja',de,Russland,#bb3388,#154c79,3,0.3607150279216602
 'Ukraine',de,Russland,#bb3388,#154c79,3,0.3525850803071544
 'Krieg',de,Russland,#bb3388,#154c79,3,0.3230697636433403
-'Gas',de,Winter,#154c79,#9e3215,3,0.2968304254901006
-'Winter',de,Winter,#154c79,#315fa8,3,0.29277650926726956
+'Winter',de,Winter,#154c79,#315fa8,3,0.2927765092672695
 'Industrie',de,Politik,#22ee22,#802d16,3,0.2710848932410596
+'Gas',de,Winter,#154c79,#9e3215,3,0.2709071503029491
 'Olaf Scholz',de,Politik,#22ee22,#3b4a63,3,0.2595970723877461
 'Pipeline',de,Russland,#bb3388,#154c79,3,0.2458465653182857
 'Bürgergeld',de,Politik,#22ee22,#d64118,3,0.2377557101053491
