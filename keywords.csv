@@ -12,12 +12,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bürgergeld',de,Politik,#22ee22,#d64118,3,0.2377557101053491
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.235276858726983
 'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.223464647331449
+'sparen',de,Energiekrise,#154c79,#7db344,3,0.21865041015573744
 'Katar',de,Politik,#22ee22,#61b00c,3,0.2164365919466335
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.2112857291671077
 'heizen',de,Energiekrise,#ee4422,#b55035,3,0.2108393316432464
-'sparen',de,Energiekrise,#154c79,#7db344,3,0.2085980044612954
 'Energie',de,Energiekrise,#ee4422,#a89216,3,0.1841690836933064
 'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.1798241910125705
-'frieren',de,Winter,#154c79,#638ed4,2,0.05526656284739801
+'frieren',de,Winter,#154c79,#638ed4,2,0.055266562847398
 'Dämmung',de,Winter,#154c79,#022f78,2,0.0286030229765966
 'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.0005448320222963
