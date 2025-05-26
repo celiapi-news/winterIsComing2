@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kreml',de,Russland,#bb3388,#154c79,3,0.5192129634039867
-'Wladimir Putin',de,Russland,#bb3388,#154c79,3,0.40389847490820885
+'Wladimir Putin',de,Russland,#bb3388,#154c79,3,0.4038984749082088
 'Ukraine',de,Russland,#bb3388,#154c79,3,0.3933177907015857
 'Krieg',de,Russland,#bb3388,#154c79,3,0.3888816705451935
 'Gas',de,Winter,#154c79,#9e3215,3,0.3079280865513893
@@ -12,10 +12,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Industrie',de,Politik,#22ee22,#802d16,3,0.2489212892303018
 'Pipeline',de,Russland,#bb3388,#154c79,3,0.2458465653182857
 'Energie',de,Energiekrise,#ee4422,#a89216,3,0.2434367941047774
-'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.223464647331449
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.2180147470438816
 'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.2154721463702184
 'Katar',de,Politik,#22ee22,#61b00c,3,0.2116534008819112
+'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.20862657886809527
 'heizen',de,Energiekrise,#ee4422,#b55035,3,0.2080839594531545
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.1846304997920415
 'frieren',de,Winter,#154c79,#638ed4,2,0.0433610330836581
