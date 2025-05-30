@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Kreml',de,Russland,#bb3388,#154c79,3,0.38600334386180774
+'Kreml',de,Russland,#bb3388,#154c79,3,0.3860033438618077
 'Krieg',de,Russland,#bb3388,#154c79,3,0.3537661081452326
 'Ukraine',de,Russland,#bb3388,#154c79,3,0.3530065357327114
 'Wladimir Putin',de,Russland,#bb3388,#154c79,3,0.3087791260984535
@@ -15,8 +15,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie',de,Energiekrise,#ee4422,#a89216,3,0.2119190799890607
 'Katar',de,Politik,#22ee22,#61b00c,3,0.2116534008819112
 'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.2086265788680952
-'heizen',de,Energiekrise,#ee4422,#b55035,3,0.2080839594531545
 'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.2037500959498376
+'heizen',de,Energiekrise,#ee4422,#b55035,3,0.2000053587169995
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.1846304997920415
 'frieren',de,Winter,#154c79,#638ed4,2,0.0433610330836581
 'Dämmung',de,Winter,#154c79,#022f78,2,0.0344138616915623
