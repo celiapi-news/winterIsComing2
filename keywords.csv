@@ -14,10 +14,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'sparen',de,Energiekrise,#154c79,#7db344,3,0.2268106453653013
 'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.2252896112240575
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.2244126538910485
+'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.2059713037430052
 'Pipeline',de,Russland,#bb3388,#154c79,3,0.1998549762052334
 'heizen',de,Energiekrise,#ee4422,#b55035,3,0.1894100284781974
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.1846304997920415
-'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.1829034921040703
-'Dämmung',de,Winter,#154c79,#022f78,2,0.045354110601382974
+'Dämmung',de,Winter,#154c79,#022f78,2,0.0453541106013829
 'frieren',de,Winter,#154c79,#638ed4,2,0.0442502881574861
 'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.0025828250355705
