@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wladimir Putin',de,Russland,#bb3388,#154c79,3,0.3323196263506554
 'Ukraine',de,Russland,#bb3388,#154c79,3,0.2973091599337201
 'Industrie',de,Politik,#22ee22,#802d16,3,0.2818267673940136
-'Katar',de,Politik,#22ee22,#61b00c,3,0.27351252807365795
+'Katar',de,Politik,#22ee22,#61b00c,3,0.2735125280736579
 'Kreml',de,Russland,#bb3388,#154c79,3,0.2467868284912319
 'Bürgergeld',de,Politik,#22ee22,#d64118,3,0.2453689424398476
 'Saporischschja',de,Russland,#bb3388,#154c79,3,0.2447606673641719
@@ -15,9 +15,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.2252896112240575
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.2229768880801185
 'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.2119414999997362
-'heizen',de,Energiekrise,#ee4422,#b55035,3,0.1894100284781974
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.1846304997920415
 'Pipeline',de,Russland,#bb3388,#154c79,3,0.1839218988653574
+'heizen',de,Energiekrise,#ee4422,#b55035,3,0.17049627375192233
 'Dämmung',de,Winter,#154c79,#022f78,2,0.0453541106013829
 'frieren',de,Winter,#154c79,#638ed4,2,0.0442502881574861
 'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.0025828250355705
