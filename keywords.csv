@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Krieg',de,Russland,#bb3388,#154c79,3,0.301843849452667
-'Bürgergeld',de,Politik,#22ee22,#d64118,3,0.286928676404383
 'Ukraine',de,Russland,#bb3388,#154c79,3,0.2796331668605432
 'Wladimir Putin',de,Russland,#bb3388,#154c79,3,0.2790474944994711
 'Saporischschja',de,Russland,#bb3388,#154c79,3,0.2785123544206141
 'Olaf Scholz',de,Politik,#22ee22,#3b4a63,3,0.2707624176157007
+'Bürgergeld',de,Politik,#22ee22,#d64118,3,0.2624811985800892
 'Industrie',de,Politik,#22ee22,#802d16,3,0.2488786492599368
 'sparen',de,Energiekrise,#154c79,#7db344,3,0.2475925602736019
 'Kreml',de,Russland,#bb3388,#154c79,3,0.2467868284912319
@@ -16,7 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.1897436045452303
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.1866232006206589
 'Pipeline',de,Russland,#bb3388,#154c79,3,0.1839218988653574
-'heizen',de,Energiekrise,#ee4422,#b55035,3,0.17018534221903556
+'heizen',de,Energiekrise,#ee4422,#b55035,3,0.1701853422190355
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.1619859598232352
 'frieren',de,Winter,#154c79,#638ed4,2,0.0417223339892381
 'Dämmung',de,Winter,#154c79,#022f78,2,0.0384378696881125
