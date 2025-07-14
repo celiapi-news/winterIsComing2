@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie',de,Energiekrise,#ee4422,#a89216,3,0.3228966017884258
 'Saporischschja',de,Russland,#bb3388,#154c79,3,0.2913064272279845
+'Krieg',de,Russland,#bb3388,#154c79,3,0.284396777003188
 'Ukraine',de,Russland,#bb3388,#154c79,3,0.2836218627405526
 'Wladimir Putin',de,Russland,#bb3388,#154c79,3,0.2790474944994711
-'Krieg',de,Russland,#bb3388,#154c79,3,0.2751602135866383
 'Bürgergeld',de,Politik,#22ee22,#d64118,3,0.2624811985800892
 'Industrie',de,Politik,#22ee22,#802d16,3,0.2488786492599368
 'Kreml',de,Russland,#bb3388,#154c79,3,0.2467868284912319
@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter',de,Winter,#154c79,#315fa8,3,0.2309436399423981
 'Katar',de,Politik,#22ee22,#61b00c,3,0.2147358597499542
 'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.2072440847725366
-'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.19469956486115608
+'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.194699564861156
 'Pipeline',de,Russland,#bb3388,#154c79,3,0.1904547820893115
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.1821801253802442
 'heizen',de,Energiekrise,#ee4422,#b55035,3,0.1632467395225438
