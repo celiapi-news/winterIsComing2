@@ -4,7 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wladimir Putin',de,Russland,#bb3388,#154c79,3,0.2790474944994711
 'Kreml',de,Russland,#bb3388,#154c79,3,0.2692838187630016
 'Bürgergeld',de,Politik,#22ee22,#d64118,3,0.2624811985800892
-'Energie',de,Energiekrise,#ee4422,#a89216,3,0.25798604499668304
+'Energie',de,Energiekrise,#ee4422,#a89216,3,0.257986044996683
 'Krieg',de,Russland,#bb3388,#154c79,3,0.2523282271348033
 'Industrie',de,Politik,#22ee22,#802d16,3,0.2483392586891281
 'sparen',de,Energiekrise,#154c79,#7db344,3,0.2456117752976773
@@ -18,6 +18,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.1821801253802442
 'heizen',de,Energiekrise,#ee4422,#b55035,3,0.175530745412344
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.1619859598232352
-'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.0801343825913529
+'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.06871428520264997
 'frieren',de,Winter,#154c79,#638ed4,2,0.0477122792163154
 'Dämmung',de,Winter,#154c79,#022f78,2,0.0443638006905703
