@@ -18,6 +18,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.1821801253802442
 'heizen',de,Energiekrise,#ee4422,#b55035,3,0.1723356367823105
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.1427362108497499
-'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.0687142852026499
-'Dämmung',de,Winter,#154c79,#022f78,2,0.04962108915802795
+'Gasmangel',de,Energiekrise,#ee4422,#bfba22,2,0.1346072624222524
+'Dämmung',de,Winter,#154c79,#022f78,2,0.0496210891580279
 'frieren',de,Winter,#154c79,#638ed4,2,0.0477122792163154
