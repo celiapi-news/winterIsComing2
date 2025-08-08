@@ -4,9 +4,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Saporischschja',de,Russland,#bb3388,#154c79,3,0.2912465440419935
 'Krieg',de,Russland,#bb3388,#154c79,3,0.2755768378473902
 'Kreml',de,Russland,#bb3388,#154c79,3,0.2643398129605632
+'Gas',de,Winter,#154c79,#9e3215,3,0.2523340633271345
 'Ukraine',de,Russland,#bb3388,#154c79,3,0.2446286749795959
 'Olaf Scholz',de,Politik,#22ee22,#3b4a63,3,0.2441953690642546
-'Gas',de,Winter,#154c79,#9e3215,3,0.2321932333260406
 'Industrie',de,Politik,#22ee22,#802d16,3,0.230508828736959
 'sparen',de,Energiekrise,#154c79,#7db344,3,0.2273943826393893
 'Winter',de,Winter,#154c79,#315fa8,3,0.2194506071328565
@@ -16,7 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.1993978152384743
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.1857033214844414
 'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.1711772519165143
-'heizen',de,Energiekrise,#ee4422,#b55035,3,0.14169918885205252
+'heizen',de,Energiekrise,#ee4422,#b55035,3,0.1416991888520525
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.1124565238389442
 'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.0550134159775471
 'Dämmung',de,Winter,#154c79,#022f78,3,0.0503615258132646
