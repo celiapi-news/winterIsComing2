@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Kreml',de,Russland,#bb3388,#154c79,3,0.2141501388350993
 'Industrie',de,Politik,#22ee22,#802d16,3,0.2108264783188156
 'Krieg',de,Russland,#bb3388,#154c79,3,0.2070378199688884
 'Bürgergeld',de,Politik,#22ee22,#d64118,3,0.2057106373307171
+'Kreml',de,Russland,#bb3388,#154c79,3,0.2051847711916526
 'Saporischschja',de,Russland,#bb3388,#154c79,3,0.2048344189177109
 'Katar',de,Politik,#22ee22,#61b00c,3,0.2029824998664037
 'Pipeline',de,Russland,#bb3388,#154c79,3,0.2020448529852228
@@ -20,4 +20,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'heizen',de,Energiekrise,#ee4422,#b55035,3,0.1655797838928293
 'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.1133831609072628
 'Dämmung',de,Winter,#154c79,#022f78,3,0.0770885482671018
-'frieren',de,Winter,#154c79,#638ed4,3,0.05125210156824037
+'frieren',de,Winter,#154c79,#638ed4,3,0.0512521015682403
