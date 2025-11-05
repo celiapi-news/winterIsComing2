@@ -8,7 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'sparen',de,Energiekrise,#154c79,#7db344,3,0.1929100262314968
 'Krieg',de,Russland,#bb3388,#154c79,3,0.1925637878138854
 'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.1918930673715433
-'Kreml',de,Russland,#bb3388,#154c79,3,0.19108656482233255
+'Kreml',de,Russland,#bb3388,#154c79,3,0.1910865648223325
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.1854448261729904
 'Energie',de,Energiekrise,#ee4422,#a89216,3,0.1822692677504412
 'Winter',de,Winter,#154c79,#315fa8,3,0.1797499201049997
@@ -20,4 +20,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'heizen',de,Energiekrise,#ee4422,#b55035,3,0.1593339199452685
 'Dämmung',de,Winter,#154c79,#022f78,3,0.0737944829079429
 'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.0596647601877217
-'frieren',de,Winter,#154c79,#638ed4,3,0.0500531129966899
+'frieren',de,Winter,#154c79,#638ed4,3,0.04749631604718641
