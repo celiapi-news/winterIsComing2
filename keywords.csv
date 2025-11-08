@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine',de,Russland,#bb3388,#154c79,3,0.2249890177025587
 'Saporischschja',de,Russland,#bb3388,#154c79,3,0.2193979638308185
-'Bürgergeld',de,Politik,#22ee22,#d64118,3,0.2131742689836856
 'sparen',de,Energiekrise,#154c79,#7db344,3,0.2098744632058632
 'Pipeline',de,Russland,#bb3388,#154c79,3,0.2087509881429923
+'Bürgergeld',de,Politik,#22ee22,#d64118,3,0.19525217772704187
 'Gas',de,Winter,#154c79,#9e3215,3,0.193162301830575
 'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.1918930673715433
 'Krieg',de,Russland,#bb3388,#154c79,3,0.1914541423690753
@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.1703059912720269
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.1666545544469187
 'Winter',de,Winter,#154c79,#315fa8,3,0.1623171616347043
-'heizen',de,Energiekrise,#ee4422,#b55035,3,0.13655809393318374
+'heizen',de,Energiekrise,#ee4422,#b55035,3,0.1365580939331837
 'Dämmung',de,Winter,#154c79,#022f78,3,0.0737944829079429
 'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.0596647601877217
 'frieren',de,Winter,#154c79,#638ed4,3,0.0474963160471864
