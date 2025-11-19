@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bürgergeld',de,Politik,#22ee22,#d64118,3,0.2313954490928054
 'Pipeline',de,Russland,#bb3388,#154c79,3,0.2233050508306343
 'Ukraine',de,Russland,#bb3388,#154c79,3,0.2134773015305322
-'Saporischschja',de,Russland,#bb3388,#154c79,3,0.21112994742593844
+'Saporischschja',de,Russland,#bb3388,#154c79,3,0.2111299474259384
 'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.1986524776206152
 'Krieg',de,Russland,#bb3388,#154c79,3,0.1950384882864412
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.193608266864531
@@ -19,5 +19,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.1467168762798809
 'heizen',de,Energiekrise,#ee4422,#b55035,3,0.1210293898432061
 'Dämmung',de,Winter,#154c79,#022f78,3,0.0816077663328068
-'frieren',de,Winter,#154c79,#638ed4,3,0.0658454521343561
+'frieren',de,Winter,#154c79,#638ed4,3,0.05656968431420268
 'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.0507150461595634
