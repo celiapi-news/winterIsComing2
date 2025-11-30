@@ -19,5 +19,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.1463300966273439
 'heizen',de,Energiekrise,#ee4422,#b55035,3,0.1276331704772305
 'frieren',de,Winter,#154c79,#638ed4,3,0.0707264238473265
-'Dämmung',de,Winter,#154c79,#022f78,3,0.0606791418794856
-'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.022502535404680838
+'Dämmung',de,Winter,#154c79,#022f78,3,0.05652860559756276
+'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.0225025354046808
