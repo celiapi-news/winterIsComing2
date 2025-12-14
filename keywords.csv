@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine',de,Russland,#bb3388,#154c79,3,0.2048464921649516
 'Gas',de,Winter,#154c79,#9e3215,3,0.2020691987481006
 'Saporischschja',de,Russland,#bb3388,#154c79,3,0.2000898273509582
-'Industrie',de,Politik,#22ee22,#802d16,3,0.19407690138358327
+'Industrie',de,Politik,#22ee22,#802d16,3,0.1940769013835832
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.1917752167868963
 'Energie',de,Energiekrise,#ee4422,#a89216,3,0.1905757633767786
 'Bürgergeld',de,Politik,#22ee22,#d64118,3,0.1895862628899006
@@ -11,9 +11,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter',de,Winter,#154c79,#315fa8,3,0.1808253920992556
 'Krieg',de,Russland,#bb3388,#154c79,3,0.1801447234041424
 'sparen',de,Energiekrise,#154c79,#7db344,3,0.1729183384750182
+'Katar',de,Politik,#22ee22,#61b00c,3,0.17006885006572667
 'Pipeline',de,Russland,#bb3388,#154c79,3,0.1680725513809708
 'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.1660554029496195
-'Katar',de,Politik,#22ee22,#61b00c,3,0.1568111332324057
 'Olaf Scholz',de,Politik,#22ee22,#3b4a63,3,0.1563608509201303
 'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.1528748238308944
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.1467168762798809
