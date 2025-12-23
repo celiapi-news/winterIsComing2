@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Kreml',de,Russland,#bb3388,#154c79,3,0.25594160321693
+'Kreml',de,Russland,#bb3388,#154c79,3,0.24524760046166322
 'Wladimir Putin',de,Russland,#bb3388,#154c79,3,0.2126576633498549
 'Ukraine',de,Russland,#bb3388,#154c79,3,0.2023794815880643
 'Energie',de,Energiekrise,#ee4422,#a89216,3,0.1948971407442679
@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Industrie',de,Politik,#22ee22,#802d16,3,0.1699464911760457
 'Olaf Scholz',de,Politik,#22ee22,#3b4a63,3,0.165133155554838
 'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.1600278175071765
-'sparen',de,Energiekrise,#154c79,#7db344,3,0.15820275418869775
+'sparen',de,Energiekrise,#154c79,#7db344,3,0.1582027541886977
 'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.1528748238308944
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.1467168762798809
 'heizen',de,Energiekrise,#ee4422,#b55035,3,0.1421407117056926
