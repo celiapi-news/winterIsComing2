@@ -16,8 +16,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olaf Scholz',de,Politik,#22ee22,#3b4a63,3,0.165133155554838
 'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.1637174626083727
 'Energie',de,Energiekrise,#ee4422,#a89216,3,0.1569576337496781
-'heizen',de,Energiekrise,#ee4422,#b55035,3,0.1546489486754123
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.1467168762798809
+'heizen',de,Energiekrise,#ee4422,#b55035,3,0.14549713546500953
 'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.1448623952577988
 'frieren',de,Winter,#154c79,#638ed4,3,0.141846716493875
 'Dämmung',de,Winter,#154c79,#022f78,2,0.0453395570069198
