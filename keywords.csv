@@ -8,16 +8,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter',de,Winter,#154c79,#315fa8,3,0.1819297648371666
 'Bürgergeld',de,Politik,#22ee22,#d64118,3,0.1795975048745328
 'Gas',de,Winter,#154c79,#9e3215,3,0.1789294284966477
-'Industrie',de,Politik,#22ee22,#802d16,3,0.1767049347723661
 'Pipeline',de,Russland,#bb3388,#154c79,3,0.1726447119182059
 'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.1713479116198966
 'sparen',de,Energiekrise,#154c79,#7db344,3,0.169435480310425
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.1668251580732225
 'Olaf Scholz',de,Politik,#22ee22,#3b4a63,3,0.165133155554838
+'Industrie',de,Politik,#22ee22,#802d16,3,0.16426879864742028
 'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.1637174626083727
 'Energie',de,Energiekrise,#ee4422,#a89216,3,0.1569576337496781
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.1467168762798809
-'heizen',de,Energiekrise,#ee4422,#b55035,3,0.14549713546500953
+'heizen',de,Energiekrise,#ee4422,#b55035,3,0.1454971354650095
 'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.1448623952577988
 'frieren',de,Winter,#154c79,#638ed4,3,0.141846716493875
 'Dämmung',de,Winter,#154c79,#022f78,2,0.0453395570069198
