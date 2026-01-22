@@ -7,6 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katar',de,Politik,#22ee22,#61b00c,3,0.1991197110834279
 'Krieg',de,Russland,#bb3388,#154c79,3,0.1973806101042677
 'Wladimir Putin',de,Russland,#bb3388,#154c79,3,0.1944812400205642
+'Olaf Scholz',de,Politik,#22ee22,#3b4a63,3,0.19076988767615777
 'Bürgergeld',de,Politik,#22ee22,#d64118,3,0.1894307859615347
 'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.1879895199797895
 'Winter',de,Winter,#154c79,#315fa8,3,0.1819297648371666
@@ -14,7 +15,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Industrie',de,Politik,#22ee22,#802d16,3,0.1718772461230344
 'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.1713479116198966
 'Energie',de,Energiekrise,#ee4422,#a89216,3,0.1656796309599536
-'Olaf Scholz',de,Politik,#22ee22,#3b4a63,3,0.165133155554838
 'sparen',de,Energiekrise,#154c79,#7db344,3,0.1535471728093158
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.1524829475651714
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.1324852402479372
