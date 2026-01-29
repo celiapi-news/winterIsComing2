@@ -13,11 +13,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.1879895199797895
 'Winter',de,Winter,#154c79,#315fa8,3,0.1819297648371666
 'frieren',de,Winter,#154c79,#638ed4,3,0.180476233146766
+'Sicherheit',de,Politik,#22ee22,#477515,3,0.18012695088494113
 'Industrie',de,Politik,#22ee22,#802d16,3,0.1718772461230344
 'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.1713479116198966
 'sparen',de,Energiekrise,#154c79,#7db344,3,0.1536770050697366
-'Sicherheit',de,Politik,#22ee22,#477515,3,0.1524829475651714
 'heizen',de,Energiekrise,#ee4422,#b55035,3,0.1441461788823941
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.1324852402479372
 'Dämmung',de,Winter,#154c79,#022f78,2,0.0554311689318335
-'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.03867662040665738
+'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.0386766204066573
