@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kreml',de,Russland,#bb3388,#154c79,3,0.3308238928837448
-'Krieg',de,Russland,#bb3388,#154c79,3,0.27082243854774285
+'Krieg',de,Russland,#bb3388,#154c79,3,0.2708224385477428
 'Ukraine',de,Russland,#bb3388,#154c79,3,0.2558192258632596
 'Saporischschja',de,Russland,#bb3388,#154c79,3,0.2430686337212313
 'Energie',de,Energiekrise,#ee4422,#a89216,3,0.2244213419473723
@@ -18,6 +18,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.1713479116198966
 'sparen',de,Energiekrise,#154c79,#7db344,3,0.1628838965820033
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.1596797279144418
-'heizen',de,Energiekrise,#ee4422,#b55035,3,0.1247540298334387
+'heizen',de,Energiekrise,#ee4422,#b55035,3,0.14365873535842288
 'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.1059291793280275
 'Dämmung',de,Winter,#154c79,#022f78,3,0.0403768089257533
