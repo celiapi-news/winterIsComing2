@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Iran',de,Israel,#bb3388,#154c79,3,0.34913227228797533
 'Benjamin Netanjahu',de,Israel,#bb3388,#154c79,3,0.3307789710734998
 'Gas',de,Winter,#154c79,#9e3215,3,0.3102330183065484
 'Winter',de,Winter,#154c79,#315fa8,3,0.3022588591378065
 'Kreml',de,Russland,#bb3388,#154c79,3,0.3020656197543389
 'Katar',de,Politik,#22ee22,#61b00c,3,0.3002337656593354
-'Iran',de,Israel,#bb3388,#154c79,3,0.2923618492157999
 'Chamenei',de,Israel,#bb3388,#154c79,3,0.2748736908591566
 'Wladimir Putin',de,Russland,#bb3388,#154c79,3,0.2602544855974419
 'Bürgergeld',de,Politik,#22ee22,#d64118,3,0.2582892111780508
@@ -24,4 +24,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'frieren',de,Winter,#154c79,#638ed4,3,0.1502393222629567
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.1301153748281732
 'Dämmung',de,Winter,#154c79,#022f78,3,0.1181540897463374
-'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.06354395452048431
+'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.0635439545204843
