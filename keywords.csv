@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Iran',de,Israel,#bb3388,#154c79,3,0.3491322722879753
+'Iran',de,Israel,#bb3388,#154c79,3,0.36557099008114263
 'Benjamin Netanjahu',de,Israel,#bb3388,#154c79,3,0.3307789710734998
 'Gas',de,Winter,#154c79,#9e3215,3,0.3102330183065484
 'Winter',de,Winter,#154c79,#315fa8,3,0.3022588591378065
@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Saporischschja',de,Russland,#bb3388,#154c79,3,0.2190664855322102
 'Energie',de,Energiekrise,#ee4422,#a89216,3,0.2177716264689697
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.2070767479624897
-'Friedrich Merz',de,Politik,#22ee22,#3b4a63,3,0.20475705882329664
+'Friedrich Merz',de,Politik,#22ee22,#3b4a63,3,0.2047570588232966
 'heizen',de,Energiekrise,#ee4422,#b55035,3,0.2041598266924256
 'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.2012407599374952
 'sparen',de,Energiekrise,#154c79,#7db344,3,0.1931484087047986
