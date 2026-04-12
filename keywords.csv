@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chamenei',de,Israel,#bb3388,#154c79,3,0.3320566624798012
 'Kreml',de,Russland,#bb3388,#154c79,3,0.3015087273717953
-'Gas',de,Winter,#154c79,#9e3215,3,0.3010429215731908
+'Gas',de,Winter,#154c79,#9e3215,3,0.29268687015539396
 'Energie',de,Energiekrise,#ee4422,#a89216,3,0.2919878429207513
 'Friedrich Merz',de,Politik,#22ee22,#3b4a63,3,0.2787172704477836
 'Iran',de,Israel,#bb3388,#154c79,3,0.2635984530074768
@@ -24,4 +24,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'frieren',de,Winter,#154c79,#638ed4,3,0.1335893370074
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.1301153748281732
 'Dämmung',de,Winter,#154c79,#022f78,3,0.0952813200914422
-'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.047830714141049856
+'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.0478307141410498
