@@ -9,13 +9,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katar',de,Politik,#22ee22,#61b00c,3,0.2630529822769697
 'Bürgergeld',de,Politik,#22ee22,#d64118,3,0.2582892111780508
 'Wladimir Putin',de,Russland,#bb3388,#154c79,3,0.2519258588845744
+'Import',de,Energiekrise,#ee4422,#87830f,3,0.25113141076811624
 'Benjamin Netanjahu',de,Israel,#bb3388,#154c79,3,0.2453356961660577
 'Ukraine',de,Russland,#bb3388,#154c79,3,0.2373072207968687
 'Winter',de,Winter,#154c79,#315fa8,3,0.2335645214693923
 'Pipeline',de,Russland,#bb3388,#154c79,3,0.2261391173358853
 'heizen',de,Energiekrise,#ee4422,#b55035,3,0.221215395330732
 'Saporischschja',de,Russland,#bb3388,#154c79,3,0.2190664855322102
-'Import',de,Energiekrise,#ee4422,#87830f,3,0.2070767479624897
 'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.2012407599374952
 'sparen',de,Energiekrise,#154c79,#7db344,3,0.1931484087047986
 'Olaf Scholz',de,Politik,#22ee22,#3b4a63,3,0.1761991986156431
@@ -24,4 +24,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.1328351361453753
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.1301153748281732
 'Dämmung',de,Winter,#154c79,#022f78,3,0.0952813200914422
-'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.036072870216908456
+'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.0360728702169084
