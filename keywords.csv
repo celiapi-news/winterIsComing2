@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Katar',de,Politik,#22ee22,#61b00c,3,0.31960474782285975
+'Katar',de,Politik,#22ee22,#61b00c,3,0.3196047478228597
 'Benjamin Netanjahu',de,Israel,#bb3388,#154c79,3,0.318614651534698
 'Wladimir Putin',de,Russland,#bb3388,#154c79,3,0.2856483991819349
 'Kreml',de,Russland,#bb3388,#154c79,3,0.2777040381907851
@@ -12,10 +12,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.2511314107681162
 'Krieg',de,Russland,#bb3388,#154c79,3,0.2404901265105966
 'Ukraine',de,Russland,#bb3388,#154c79,3,0.2373072207968687
-'Winter',de,Winter,#154c79,#315fa8,3,0.2335645214693923
 'Friedrich Merz',de,Politik,#22ee22,#3b4a63,3,0.2238536489095809
 'heizen',de,Energiekrise,#ee4422,#b55035,3,0.221215395330732
 'Saporischschja',de,Russland,#bb3388,#154c79,3,0.2190664855322102
+'Winter',de,Winter,#154c79,#315fa8,3,0.2171419468853471
 'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.2012407599374952
 'sparen',de,Energiekrise,#154c79,#7db344,3,0.1931484087047986
 'Olaf Scholz',de,Politik,#22ee22,#3b4a63,3,0.1826967638232966
