@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Iran',de,Israel,#bb3388,#154c79,3,0.3216179564071755
 'Wladimir Putin',de,Russland,#bb3388,#154c79,3,0.2728523149816966
 'Chamenei',de,Israel,#bb3388,#154c79,3,0.2699771190877024
 'Katar',de,Politik,#22ee22,#61b00c,3,0.262103095552016
@@ -10,7 +11,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.2511314107681162
 'Energie',de,Energiekrise,#ee4422,#a89216,3,0.2475482707520674
 'Kreml',de,Russland,#bb3388,#154c79,3,0.2460871803942427
-'Iran',de,Israel,#bb3388,#154c79,3,0.24179109273709454
 'Krieg',de,Russland,#bb3388,#154c79,3,0.2404901265105966
 'heizen',de,Energiekrise,#ee4422,#b55035,3,0.2319972056491811
 'Friedrich Merz',de,Politik,#22ee22,#3b4a63,3,0.2221849286806523
