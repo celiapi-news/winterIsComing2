@@ -7,7 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine',de,Russland,#bb3388,#154c79,3,0.2543721684121012
 'Friedrich Merz',de,Politik,#22ee22,#3b4a63,3,0.2516158805075867
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.2511314107681162
-'Gas',de,Winter,#154c79,#9e3215,3,0.24961322797047036
+'Gas',de,Winter,#154c79,#9e3215,3,0.2496132279704703
 'Energie',de,Energiekrise,#ee4422,#a89216,3,0.2475482707520674
 'Pipeline',de,Russland,#bb3388,#154c79,3,0.2470582285968267
 'Krieg',de,Russland,#bb3388,#154c79,3,0.2404901265105966
@@ -22,6 +22,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olaf Scholz',de,Politik,#22ee22,#3b4a63,3,0.1826967638232966
 'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.1543179120872053
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.1301153748281732
-'frieren',de,Winter,#154c79,#638ed4,2,0.1135515814562899
+'frieren',de,Winter,#154c79,#638ed4,2,0.11510583787421004
 'Dämmung',de,Winter,#154c79,#022f78,3,0.0745353060852478
 'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.0360728702169084
