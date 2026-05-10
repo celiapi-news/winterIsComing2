@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Chamenei',de,Israel,#bb3388,#154c79,3,0.32501860742905336
+'Chamenei',de,Israel,#bb3388,#154c79,3,0.3250186074290533
 'Pipeline',de,Russland,#bb3388,#154c79,3,0.2785943029436663
 'Energie',de,Energiekrise,#ee4422,#a89216,3,0.2665494062774596
 'Krieg',de,Russland,#bb3388,#154c79,3,0.265793119258145
@@ -16,10 +16,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.2296022813048402
 'Saporischschja',de,Russland,#bb3388,#154c79,3,0.2190664855322102
 'Winter',de,Winter,#154c79,#315fa8,3,0.2171419468853471
-'Benjamin Netanjahu',de,Israel,#bb3388,#154c79,3,0.2026977529445824
 'Industrie',de,Politik,#22ee22,#802d16,3,0.2014117578126509
 'sparen',de,Energiekrise,#154c79,#7db344,3,0.2009839592172606
 'Olaf Scholz',de,Politik,#22ee22,#3b4a63,3,0.1826967638232966
+'Benjamin Netanjahu',de,Israel,#bb3388,#154c79,3,0.17725252500289504
 'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.1543179120872053
 'Gasmangel',de,Energiekrise,#ee4422,#bfba22,2,0.1214120446843721
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.1156431686039472
