@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wladimir Putin',de,Russland,#bb3388,#154c79,3,0.3102596908143455
-'Gas',de,Winter,#154c79,#9e3215,3,0.2797745964359375
+'Gas',de,Winter,#154c79,#9e3215,3,0.2836917978796378
 'Pipeline',de,Russland,#bb3388,#154c79,3,0.2725028551722533
 'Krieg',de,Russland,#bb3388,#154c79,3,0.2717983663694233
 'Ukraine',de,Russland,#bb3388,#154c79,3,0.2666906836048314
@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.2296022813048402
 'heizen',de,Energiekrise,#ee4422,#b55035,3,0.2234735820240261
 'Winter',de,Winter,#154c79,#315fa8,3,0.2171419468853471
-'sparen',de,Energiekrise,#154c79,#7db344,3,0.20602947462537988
+'sparen',de,Energiekrise,#154c79,#7db344,3,0.2060294746253798
 'Industrie',de,Politik,#22ee22,#802d16,3,0.2014117578126509
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.1816008381422573
 'Benjamin Netanjahu',de,Israel,#bb3388,#154c79,3,0.1701208323537665
