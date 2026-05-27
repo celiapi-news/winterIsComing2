@@ -11,7 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie',de,Energiekrise,#ee4422,#a89216,3,0.2481890586414698
 'Katar',de,Politik,#22ee22,#61b00c,3,0.2449785623683816
 'Kreml',de,Russland,#bb3388,#154c79,3,0.24349278931385
-'Saporischschja',de,Russland,#bb3388,#154c79,3,0.24295575311520362
+'Saporischschja',de,Russland,#bb3388,#154c79,3,0.2429557531152036
 'Olaf Scholz',de,Politik,#22ee22,#3b4a63,3,0.230739832161452
 'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.2296022813048402
 'heizen',de,Energiekrise,#ee4422,#b55035,3,0.2130879629022403
@@ -22,6 +22,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.1816008381422573
 'Chamenei',de,Israel,#bb3388,#154c79,3,0.1775758090605721
 'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.1362161052741245
-'frieren',de,Winter,#154c79,#638ed4,2,0.1120157121930785
 'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.1024806016967713
+'frieren',de,Winter,#154c79,#638ed4,2,0.10001406036411672
 'Dämmung',de,Winter,#154c79,#022f78,3,0.0419028518015727
