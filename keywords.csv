@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ukraine',de,Russland,#bb3388,#154c79,3,0.3207649530863088
+'Ukraine',de,Russland,#bb3388,#154c79,3,0.31607620254271734
 'Wladimir Putin',de,Russland,#bb3388,#154c79,3,0.3045916021940871
 'Gas',de,Winter,#154c79,#9e3215,3,0.2836917978796378
 'Krieg',de,Russland,#bb3388,#154c79,3,0.2769994673231007
@@ -23,5 +23,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chamenei',de,Israel,#bb3388,#154c79,3,0.1775758090605721
 'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.1362161052741245
 'frieren',de,Winter,#154c79,#638ed4,2,0.1120157121930785
-'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.10248060169677133
+'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.1024806016967713
 'Dämmung',de,Winter,#154c79,#022f78,3,0.0419028518015727
