@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine',de,Russland,#bb3388,#154c79,3,0.3803149022725432
-'Bürgergeld',de,Politik,#22ee22,#d64118,3,0.33915657637025076
+'Bürgergeld',de,Politik,#22ee22,#d64118,3,0.3391565763702507
 'Krieg',de,Russland,#bb3388,#154c79,3,0.3268739735882719
 'Wladimir Putin',de,Russland,#bb3388,#154c79,3,0.3229621909558831
 'Pipeline',de,Russland,#bb3388,#154c79,3,0.2956747859873244
@@ -14,8 +14,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Saporischschja',de,Russland,#bb3388,#154c79,3,0.2432825669661048
 'Olaf Scholz',de,Politik,#22ee22,#3b4a63,3,0.230739832161452
 'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.2296022813048402
+'Benjamin Netanjahu',de,Israel,#bb3388,#154c79,3,0.22893979393625455
 'sparen',de,Energiekrise,#154c79,#7db344,3,0.2210203993406637
-'Benjamin Netanjahu',de,Israel,#bb3388,#154c79,3,0.2207280971442567
 'heizen',de,Energiekrise,#ee4422,#b55035,3,0.2130879629022403
 'Industrie',de,Politik,#22ee22,#802d16,3,0.2014117578126509
 'Chamenei',de,Israel,#bb3388,#154c79,3,0.1907607478795966
