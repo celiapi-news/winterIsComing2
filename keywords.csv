@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine',de,Russland,#bb3388,#154c79,3,0.3845313145694891
 'Gas',de,Winter,#154c79,#9e3215,3,0.3324733545613284
-'Krieg',de,Russland,#bb3388,#154c79,3,0.2973010062133613
+'Krieg',de,Russland,#bb3388,#154c79,3,0.29336629683308124
 'Wladimir Putin',de,Russland,#bb3388,#154c79,3,0.2931236059488642
 'Bürgergeld',de,Politik,#22ee22,#d64118,3,0.2866722489608874
 'Katar',de,Politik,#22ee22,#61b00c,3,0.2792632248111557
@@ -24,4 +24,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.1571962508466421
 'frieren',de,Winter,#154c79,#638ed4,2,0.1014759316130743
 'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.0902571587920296
-'Dämmung',de,Winter,#154c79,#022f78,3,0.06221156092663628
+'Dämmung',de,Winter,#154c79,#022f78,3,0.0622115609266362
