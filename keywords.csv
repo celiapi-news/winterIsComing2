@@ -4,7 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Krieg',de,Russland,#bb3388,#154c79,3,0.2933662968330812
 'Wladimir Putin',de,Russland,#bb3388,#154c79,3,0.2931236059488642
 'Bürgergeld',de,Politik,#22ee22,#d64118,3,0.2866722489608874
-'Iran',de,Israel,#bb3388,#154c79,3,0.28635875461784516
+'Iran',de,Israel,#bb3388,#154c79,3,0.2863587546178451
 'Katar',de,Politik,#22ee22,#61b00c,3,0.2792632248111557
 'Energie',de,Energiekrise,#ee4422,#a89216,3,0.2521539769366437
 'Friedrich Merz',de,Politik,#22ee22,#3b4a63,3,0.251838737714698
@@ -14,10 +14,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kreml',de,Russland,#bb3388,#154c79,3,0.2406645089812886
 'Olaf Scholz',de,Politik,#22ee22,#3b4a63,3,0.230739832161452
 'heizen',de,Energiekrise,#ee4422,#b55035,3,0.2234282934669042
-'Industrie',de,Politik,#22ee22,#802d16,3,0.2216339695952986
 'sparen',de,Energiekrise,#154c79,#7db344,3,0.2210203993406637
 'Chamenei',de,Israel,#bb3388,#154c79,3,0.2174449812520993
 'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.2079063167836076
+'Industrie',de,Politik,#22ee22,#802d16,3,0.1933668041560038
 'Benjamin Netanjahu',de,Israel,#bb3388,#154c79,3,0.1914638764113013
 'Winter',de,Winter,#154c79,#315fa8,3,0.1907467156127964
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.1593996174209187
