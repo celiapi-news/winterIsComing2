@@ -3,9 +3,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas',de,Winter,#154c79,#9e3215,3,0.3324733545613284
 'Krieg',de,Russland,#bb3388,#154c79,3,0.2933662968330812
 'Bürgergeld',de,Politik,#22ee22,#d64118,3,0.2866722489608874
-'Iran',de,Israel,#bb3388,#154c79,3,0.2863587546178451
 'Wladimir Putin',de,Russland,#bb3388,#154c79,3,0.2813996923292619
 'Katar',de,Politik,#22ee22,#61b00c,3,0.2792632248111557
+'Iran',de,Israel,#bb3388,#154c79,3,0.27116921415244105
 'Energie',de,Energiekrise,#ee4422,#a89216,3,0.2521539769366437
 'Friedrich Merz',de,Politik,#22ee22,#3b4a63,3,0.251838737714698
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.2457188440081956
@@ -22,6 +22,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter',de,Winter,#154c79,#315fa8,3,0.1907467156127964
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.1593996174209187
 'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.1571962508466421
-'frieren',de,Winter,#154c79,#638ed4,2,0.09105526187111315
+'frieren',de,Winter,#154c79,#638ed4,2,0.0910552618711131
 'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.0902571587920296
 'Dämmung',de,Winter,#154c79,#022f78,3,0.0622115609266362
