@@ -12,11 +12,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie',de,Energiekrise,#ee4422,#a89216,3,0.2466978921177156
 'Saporischschja',de,Russland,#bb3388,#154c79,3,0.2432825669661048
 'Pipeline',de,Russland,#bb3388,#154c79,3,0.2364578892543705
+'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.235285443470984
 'Olaf Scholz',de,Politik,#22ee22,#3b4a63,3,0.232899814155416
 'heizen',de,Energiekrise,#ee4422,#b55035,3,0.2234282934669042
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.2210744476309652
 'sparen',de,Energiekrise,#154c79,#7db344,3,0.2155836571668368
-'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.2121298570246871
 'Benjamin Netanjahu',de,Israel,#bb3388,#154c79,3,0.2025098562071651
 'Winter',de,Winter,#154c79,#315fa8,3,0.1852881414526951
 'Industrie',de,Politik,#22ee22,#802d16,3,0.1829772471689668
@@ -24,4 +24,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.1571962508466421
 'frieren',de,Winter,#154c79,#638ed4,2,0.0775503921453924
 'Dämmung',de,Winter,#154c79,#022f78,3,0.0771380436165704
-'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.02981539770531427
+'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.0298153977053142
