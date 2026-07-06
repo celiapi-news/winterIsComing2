@@ -4,9 +4,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Iran',de,Israel,#bb3388,#154c79,3,0.3340155347293531
 'Bürgergeld',de,Politik,#22ee22,#d64118,3,0.3242663621588768
 'Krieg',de,Russland,#bb3388,#154c79,3,0.3210285395289053
-'Katar',de,Politik,#22ee22,#61b00c,3,0.2871559307410046
 'Kreml',de,Russland,#bb3388,#154c79,3,0.2801813596935264
 'Gas',de,Winter,#154c79,#9e3215,3,0.2780151446263073
+'Katar',de,Politik,#22ee22,#61b00c,3,0.2723493811298539
 'Energie',de,Energiekrise,#ee4422,#a89216,3,0.24652206511824
 'Benjamin Netanjahu',de,Israel,#bb3388,#154c79,3,0.2444914927760903
 'Saporischschja',de,Russland,#bb3388,#154c79,3,0.2432825669661048
@@ -24,4 +24,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.1571962508466421
 'frieren',de,Winter,#154c79,#638ed4,2,0.0775503921453924
 'Dämmung',de,Winter,#154c79,#022f78,3,0.0771380436165704
-'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.01841876695327599
+'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.0184187669532759
