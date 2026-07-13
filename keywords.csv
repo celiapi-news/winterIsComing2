@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Wladimir Putin',de,Russland,#bb3388,#154c79,3,0.3387188869259247
 'Energie',de,Energiekrise,#ee4422,#a89216,3,0.3327316285323222
+'Wladimir Putin',de,Russland,#bb3388,#154c79,3,0.3201474761597633
 'Ukraine',de,Russland,#bb3388,#154c79,3,0.3150600251808586
 'Bürgergeld',de,Politik,#22ee22,#d64118,3,0.3096959492096344
 'Iran',de,Israel,#bb3388,#154c79,3,0.3081409070838458
@@ -24,4 +24,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.1571962508466421
 'Dämmung',de,Winter,#154c79,#022f78,3,0.0797433120740848
 'frieren',de,Winter,#154c79,#638ed4,2,0.0681685533235835
-'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.009614711466903425
+'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.0096147114669034
