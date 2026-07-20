@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Iran',de,Israel,#bb3388,#154c79,3,0.37226225265271784
+'Iran',de,Israel,#bb3388,#154c79,3,0.3722622526527178
 'Chamenei',de,Israel,#bb3388,#154c79,3,0.3666408361716
 'Kreml',de,Russland,#bb3388,#154c79,3,0.3435004355868143
 'Wladimir Putin',de,Russland,#bb3388,#154c79,3,0.3201474761597633
@@ -19,8 +19,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.2013228946046605
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.1996300188986899
 'Industrie',de,Politik,#22ee22,#802d16,3,0.1970691438553736
+'Friedrich Merz',de,Politik,#22ee22,#3b4a63,3,0.19411902389844618
 'Winter',de,Winter,#154c79,#315fa8,3,0.1861855623878181
-'Friedrich Merz',de,Politik,#22ee22,#3b4a63,3,0.1840817516452308
 'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.1571962508466421
 'Dämmung',de,Winter,#154c79,#022f78,3,0.0744655624735261
 'frieren',de,Winter,#154c79,#638ed4,2,0.0674396398705005
