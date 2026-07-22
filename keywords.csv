@@ -3,7 +3,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kreml',de,Russland,#bb3388,#154c79,3,0.3435004355868143
 'Iran',de,Israel,#bb3388,#154c79,3,0.3332327385415885
 'Wladimir Putin',de,Russland,#bb3388,#154c79,3,0.3201474761597633
-'Energie',de,Energiekrise,#ee4422,#a89216,3,0.27942961388733
 'Gas',de,Winter,#154c79,#9e3215,3,0.2768863744840853
 'Benjamin Netanjahu',de,Israel,#bb3388,#154c79,3,0.2757590533381254
 'Bürgergeld',de,Politik,#22ee22,#d64118,3,0.2747238507156344
@@ -11,10 +10,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine',de,Russland,#bb3388,#154c79,3,0.2698591441477158
 'Krieg',de,Russland,#bb3388,#154c79,3,0.2692355815881889
 'Saporischschja',de,Russland,#bb3388,#154c79,3,0.2658422512921016
+'Energie',de,Energiekrise,#ee4422,#a89216,3,0.2516087758951396
 'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.2413316733139727
 'Pipeline',de,Russland,#bb3388,#154c79,3,0.2364578892543705
 'Olaf Scholz',de,Politik,#22ee22,#3b4a63,3,0.232899814155416
-'heizen',de,Energiekrise,#ee4422,#b55035,3,0.22588646196251283
+'heizen',de,Energiekrise,#ee4422,#b55035,3,0.2258864619625128
 'sparen',de,Energiekrise,#154c79,#7db344,3,0.2155108808645385
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.2013228946046605
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.1996300188986899
