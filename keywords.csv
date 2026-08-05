@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ukraine',de,Russland,#bb3388,#154c79,3,0.32678232917678324
+'Ukraine',de,Russland,#bb3388,#154c79,3,0.3267823291767832
 'Krieg',de,Russland,#bb3388,#154c79,3,0.3013124848338315
 'Iran',de,Israel,#bb3388,#154c79,3,0.3003733958605307
 'Kreml',de,Russland,#bb3388,#154c79,3,0.2862139185226314
@@ -8,8 +8,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katar',de,Politik,#22ee22,#61b00c,3,0.2681743312147805
 'Saporischschja',de,Russland,#bb3388,#154c79,3,0.2658422512921016
 'Wladimir Putin',de,Russland,#bb3388,#154c79,3,0.2653886581598311
+'Energie',de,Energiekrise,#ee4422,#a89216,3,0.25621595451086865
 'Bürgergeld',de,Politik,#22ee22,#d64118,3,0.2521051617446528
-'Energie',de,Energiekrise,#ee4422,#a89216,3,0.2516087758951396
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.2474493537911591
 'Chamenei',de,Israel,#bb3388,#154c79,3,0.2433024908528058
 'Pipeline',de,Russland,#bb3388,#154c79,3,0.2377613476843967
