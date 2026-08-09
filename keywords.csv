@@ -8,9 +8,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wladimir Putin',de,Russland,#bb3388,#154c79,3,0.2653886581598311
 'Iran',de,Israel,#bb3388,#154c79,3,0.2648717160269056
 'Energie',de,Energiekrise,#ee4422,#a89216,3,0.2562159545108686
-'Bürgergeld',de,Politik,#22ee22,#d64118,3,0.2521051617446528
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.2474493537911591
 'Katar',de,Politik,#22ee22,#61b00c,3,0.2420019756234725
+'Bürgergeld',de,Politik,#22ee22,#d64118,3,0.2419691202102276
 'Pipeline',de,Russland,#bb3388,#154c79,3,0.2377613476843967
 'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.237376414589604
 'Chamenei',de,Israel,#bb3388,#154c79,3,0.2344872549521576
@@ -23,5 +23,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter',de,Winter,#154c79,#315fa8,3,0.1602564282298277
 'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.1571962508466421
 'Gasmangel',de,Energiekrise,#ee4422,#bfba22,2,0.1333548665662814
-'Dämmung',de,Winter,#154c79,#022f78,3,0.05710545899612834
+'Dämmung',de,Winter,#154c79,#022f78,3,0.0571054589961283
 'frieren',de,Winter,#154c79,#638ed4,2,0.0482223779216646
