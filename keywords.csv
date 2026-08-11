@@ -6,7 +6,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas',de,Winter,#154c79,#9e3215,3,0.2750279081012911
 'Wladimir Putin',de,Russland,#bb3388,#154c79,3,0.2653886581598311
 'Iran',de,Israel,#bb3388,#154c79,3,0.2648717160269056
-'Benjamin Netanjahu',de,Israel,#bb3388,#154c79,3,0.25660701331773333
+'Friedrich Merz',de,Politik,#22ee22,#3b4a63,3,0.26217462897724664
+'Benjamin Netanjahu',de,Israel,#bb3388,#154c79,3,0.2566070133177333
 'Energie',de,Energiekrise,#ee4422,#a89216,3,0.2562159545108686
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.2474493537911591
 'Katar',de,Politik,#22ee22,#61b00c,3,0.2470260856435879
@@ -19,7 +20,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Industrie',de,Politik,#22ee22,#802d16,3,0.2173482231458472
 'sparen',de,Energiekrise,#154c79,#7db344,3,0.2063510769166759
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.2013228946046605
-'Friedrich Merz',de,Politik,#22ee22,#3b4a63,3,0.1956202859625362
 'Winter',de,Winter,#154c79,#315fa8,3,0.1602564282298277
 'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.1571962508466421
 'Gasmangel',de,Energiekrise,#ee4422,#bfba22,2,0.1333548665662814
