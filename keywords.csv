@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine',de,Russland,#bb3388,#154c79,3,0.4276003769218688
 'Saporischschja',de,Russland,#bb3388,#154c79,3,0.3520131758236254
 'Iran',de,Israel,#bb3388,#154c79,3,0.3138032830118415
-'Krieg',de,Russland,#bb3388,#154c79,3,0.28849196595293786
+'Krieg',de,Russland,#bb3388,#154c79,3,0.2884919659529378
 'Kreml',de,Russland,#bb3388,#154c79,3,0.2866939679206654
 'Gas',de,Winter,#154c79,#9e3215,3,0.2649659907456598
 'Wladimir Putin',de,Russland,#bb3388,#154c79,3,0.2598620695370192
@@ -24,4 +24,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.1571962508466421
 'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.0827291623550174
 'Dämmung',de,Winter,#154c79,#022f78,3,0.0580368946921636
-'frieren',de,Winter,#154c79,#638ed4,2,0.0426396812334149
+'frieren',de,Winter,#154c79,#638ed4,2,0.05041937404840266
