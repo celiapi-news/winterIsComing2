@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine',de,Russland,#bb3388,#154c79,3,0.3821030690199521
 'Saporischschja',de,Russland,#bb3388,#154c79,3,0.3541631644500815
-'Iran',de,Israel,#bb3388,#154c79,3,0.3138032830118415
 'Krieg',de,Russland,#bb3388,#154c79,3,0.2884919659529378
 'Kreml',de,Russland,#bb3388,#154c79,3,0.2866939679206654
+'Iran',de,Israel,#bb3388,#154c79,3,0.2853694341964289
 'Gas',de,Winter,#154c79,#9e3215,3,0.2815997021338108
 'Pipeline',de,Russland,#bb3388,#154c79,3,0.2766012555317372
 'Wladimir Putin',de,Russland,#bb3388,#154c79,3,0.2598620695370192
@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'sparen',de,Energiekrise,#154c79,#7db344,3,0.2063510769166759
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.2013228946046605
 'heizen',de,Energiekrise,#ee4422,#b55035,3,0.1899450439822012
-'Friedrich Merz',de,Politik,#22ee22,#3b4a63,3,0.18453964560529845
+'Friedrich Merz',de,Politik,#22ee22,#3b4a63,3,0.1845396456052984
 'Chamenei',de,Israel,#bb3388,#154c79,3,0.1752020902029338
 'Benjamin Netanjahu',de,Israel,#bb3388,#154c79,3,0.1670286398786629
 'Winter',de,Winter,#154c79,#315fa8,3,0.1602564282298277
