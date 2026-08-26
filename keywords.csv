@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ukraine',de,Russland,#bb3388,#154c79,3,0.37842295774728435
+'Ukraine',de,Russland,#bb3388,#154c79,3,0.3784229577472843
 'Saporischschja',de,Russland,#bb3388,#154c79,3,0.3612474086238446
 'Pipeline',de,Russland,#bb3388,#154c79,3,0.341759616057164
 'Kreml',de,Russland,#bb3388,#154c79,3,0.2986484677325656
@@ -17,8 +17,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olaf Scholz',de,Politik,#22ee22,#3b4a63,3,0.2121412370321036
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.2013228946046605
 'heizen',de,Energiekrise,#ee4422,#b55035,3,0.1936797496575982
+'Benjamin Netanjahu',de,Israel,#bb3388,#154c79,3,0.18783863980595433
 'Chamenei',de,Israel,#bb3388,#154c79,3,0.1752020902029338
-'Benjamin Netanjahu',de,Israel,#bb3388,#154c79,3,0.1670286398786629
 'Friedrich Merz',de,Politik,#22ee22,#3b4a63,3,0.1618388637645036
 'Winter',de,Winter,#154c79,#315fa8,3,0.1602564282298277
 'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.1571962508466421
