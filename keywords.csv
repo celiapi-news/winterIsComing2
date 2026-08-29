@@ -7,7 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Krieg',de,Russland,#bb3388,#154c79,3,0.2865962774236334
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.2835495839043034
 'Iran',de,Israel,#bb3388,#154c79,3,0.2728252280324818
-'Industrie',de,Politik,#22ee22,#802d16,3,0.26297175578058973
+'Industrie',de,Politik,#22ee22,#802d16,3,0.2629717557805897
 'Wladimir Putin',de,Russland,#bb3388,#154c79,3,0.2598620695370192
 'Energie',de,Energiekrise,#ee4422,#a89216,3,0.2562159545108686
 'Katar',de,Politik,#22ee22,#61b00c,3,0.2558414637061406
@@ -24,4 +24,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.1571962508466421
 'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.0827291623550174
 'Dämmung',de,Winter,#154c79,#022f78,3,0.054449039947458
-'frieren',de,Winter,#154c79,#638ed4,2,0.0504193740484026
+'frieren',de,Winter,#154c79,#638ed4,2,0.05335726294114221
