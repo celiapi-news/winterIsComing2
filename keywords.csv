@@ -3,12 +3,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kreml',de,Russland,#bb3388,#154c79,3,0.3524112475726808
 'Ukraine',de,Russland,#bb3388,#154c79,3,0.3437647804650773
 'Pipeline',de,Russland,#bb3388,#154c79,3,0.3414013277865204
-'Gas',de,Winter,#154c79,#9e3215,3,0.2853180697353531
 'Krieg',de,Russland,#bb3388,#154c79,3,0.2849842671737247
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.2835495839043034
 'Iran',de,Israel,#bb3388,#154c79,3,0.2728252280324818
 'Chamenei',de,Israel,#bb3388,#154c79,3,0.272724029035256
 'Industrie',de,Politik,#22ee22,#802d16,3,0.2629717557805897
+'Gas',de,Winter,#154c79,#9e3215,3,0.2611239579114138
 'Wladimir Putin',de,Russland,#bb3388,#154c79,3,0.2598620695370192
 'Energie',de,Energiekrise,#ee4422,#a89216,3,0.2562159545108686
 'Katar',de,Politik,#22ee22,#61b00c,3,0.2558414637061406
@@ -24,4 +24,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.1571962508466421
 'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.1212199230017647
 'Dämmung',de,Winter,#154c79,#022f78,3,0.054449039947458
-'frieren',de,Winter,#154c79,#638ed4,2,0.048204453499970865
+'frieren',de,Winter,#154c79,#638ed4,2,0.0482044534999708
