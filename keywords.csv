@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Kreml',de,Russland,#bb3388,#154c79,3,0.3700570188157192
 'Ukraine',de,Russland,#bb3388,#154c79,3,0.3683229599409088
+'Kreml',de,Russland,#bb3388,#154c79,3,0.3513282728115431
 'Saporischschja',de,Russland,#bb3388,#154c79,3,0.3412990036170913
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.3369638972277488
 'Pipeline',de,Russland,#bb3388,#154c79,3,0.3315091695075791
@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie',de,Energiekrise,#ee4422,#a89216,3,0.2562159545108686
 'Katar',de,Politik,#22ee22,#61b00c,3,0.2558414637061406
 'Bürgergeld',de,Politik,#22ee22,#d64118,3,0.2393592502432096
-'Benjamin Netanjahu',de,Israel,#bb3388,#154c79,3,0.22760600198707473
+'Benjamin Netanjahu',de,Israel,#bb3388,#154c79,3,0.2276060019870747
 'sparen',de,Energiekrise,#154c79,#7db344,3,0.2202293207086619
 'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.2126664652871132
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.2013228946046605
