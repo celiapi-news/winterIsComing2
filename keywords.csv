@@ -11,7 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katar',de,Politik,#22ee22,#61b00c,3,0.2558414637061406
 'Industrie',de,Politik,#22ee22,#802d16,3,0.2557730946862285
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.2527812459970484
-'Chamenei',de,Israel,#bb3388,#154c79,2,0.24770950645019463
+'Chamenei',de,Israel,#bb3388,#154c79,2,0.2477095064501946
 'Bürgergeld',de,Politik,#22ee22,#d64118,3,0.2393592502432096
 'Benjamin Netanjahu',de,Israel,#bb3388,#154c79,3,0.2276060019870747
 'sparen',de,Energiekrise,#154c79,#7db344,3,0.2202293207086619
@@ -23,5 +23,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Friedrich Merz',de,Politik,#22ee22,#3b4a63,3,0.1671791536853192
 'Winter',de,Winter,#154c79,#315fa8,3,0.1602564282298277
 'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.1037870545515
-'frieren',de,Winter,#154c79,#638ed4,2,0.0595609291113388
+'frieren',de,Winter,#154c79,#638ed4,2,0.05557753974463797
 'Dämmung',de,Winter,#154c79,#022f78,3,0.054449039947458
