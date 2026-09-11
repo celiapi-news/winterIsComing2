@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Saporischschja',de,Russland,#bb3388,#154c79,3,0.2921836351561451
+'Krieg',de,Russland,#bb3388,#154c79,3,0.28955134118224257
 'Ukraine',de,Russland,#bb3388,#154c79,3,0.2868356643623469
 'Pipeline',de,Russland,#bb3388,#154c79,3,0.2790929706547096
 'Kreml',de,Russland,#bb3388,#154c79,3,0.2758546285699343
 'Iran',de,Israel,#bb3388,#154c79,3,0.2728252280324818
 'Gas',de,Winter,#154c79,#9e3215,3,0.2611239579114138
-'Krieg',de,Russland,#bb3388,#154c79,3,0.261092000442107
 'Wladimir Putin',de,Russland,#bb3388,#154c79,3,0.2598620695370192
 'Energie',de,Energiekrise,#ee4422,#a89216,3,0.2562159545108686
 'Katar',de,Politik,#22ee22,#61b00c,3,0.2558414637061406
@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'sparen',de,Energiekrise,#154c79,#7db344,3,0.2202293207086619
 'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.2126664652871132
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.2033508326866887
-'Olaf Scholz',de,Politik,#22ee22,#3b4a63,3,0.19698542648296752
+'Olaf Scholz',de,Politik,#22ee22,#3b4a63,3,0.1969854264829675
 'heizen',de,Energiekrise,#ee4422,#b55035,3,0.1936797496575982
 'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.1841158136741912
 'Friedrich Merz',de,Politik,#22ee22,#3b4a63,3,0.1671791536853192
