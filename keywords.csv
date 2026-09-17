@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Iran',de,Israel,#bb3388,#154c79,3,0.3520544044245388
 'Krieg',de,Russland,#bb3388,#154c79,3,0.3193216181867243
+'Pipeline',de,Russland,#bb3388,#154c79,3,0.2951113865081161
 'Ukraine',de,Russland,#bb3388,#154c79,3,0.2942805901625403
 'Saporischschja',de,Russland,#bb3388,#154c79,3,0.2820405079472394
-'Pipeline',de,Russland,#bb3388,#154c79,3,0.2790929706547096
 'Energie',de,Energiekrise,#ee4422,#a89216,3,0.2708760381084318
 'Gas',de,Winter,#154c79,#9e3215,3,0.2665618321353014
 'Kreml',de,Russland,#bb3388,#154c79,3,0.2627728386458842
@@ -24,4 +24,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Friedrich Merz',de,Politik,#22ee22,#3b4a63,3,0.1561856247234304
 'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.126919221368775
 'Dämmung',de,Winter,#154c79,#022f78,3,0.0705446314074929
-'frieren',de,Winter,#154c79,#638ed4,2,0.05219167378294222
+'frieren',de,Winter,#154c79,#638ed4,2,0.0521916737829422
