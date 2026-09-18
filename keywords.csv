@@ -6,13 +6,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Saporischschja',de,Russland,#bb3388,#154c79,3,0.2820405079472394
 'Energie',de,Energiekrise,#ee4422,#a89216,3,0.2708760381084318
 'Gas',de,Winter,#154c79,#9e3215,3,0.2665618321353014
+'Industrie',de,Politik,#22ee22,#802d16,3,0.2658023421128202
 'Kreml',de,Russland,#bb3388,#154c79,3,0.2627728386458842
 'Wladimir Putin',de,Russland,#bb3388,#154c79,3,0.2598620695370192
 'Bürgergeld',de,Politik,#22ee22,#d64118,3,0.2584087377067281
 'Katar',de,Politik,#22ee22,#61b00c,3,0.2558414637061406
 'Chamenei',de,Israel,#bb3388,#154c79,2,0.2486536354826654
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.2394565640974911
-'Industrie',de,Politik,#22ee22,#802d16,3,0.2360184541196578
 'sparen',de,Energiekrise,#154c79,#7db344,3,0.2285419489659989
 'Benjamin Netanjahu',de,Israel,#bb3388,#154c79,3,0.2276060019870747
 'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.2126664652871132
@@ -22,6 +22,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Friedrich Merz',de,Politik,#22ee22,#3b4a63,3,0.1832065764694612
 'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.1615455966230625
 'Winter',de,Winter,#154c79,#315fa8,3,0.1602564282298277
-'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.12783157816345875
+'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.1278315781634587
 'Dämmung',de,Winter,#154c79,#022f78,3,0.0705446314074929
 'frieren',de,Winter,#154c79,#638ed4,2,0.0493137177155008
