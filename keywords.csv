@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Iran',de,Israel,#bb3388,#154c79,3,0.3769700314881307
-'Krieg',de,Russland,#bb3388,#154c79,3,0.29917266318598834
+'Krieg',de,Russland,#bb3388,#154c79,3,0.2991726631859883
 'Pipeline',de,Russland,#bb3388,#154c79,3,0.2951113865081161
 'Ukraine',de,Russland,#bb3388,#154c79,3,0.2942805901625403
 'Saporischschja',de,Russland,#bb3388,#154c79,3,0.2820405079472394
@@ -23,5 +23,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.1615455966230625
 'Winter',de,Winter,#154c79,#315fa8,3,0.1602564282298277
 'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.1278315781634587
-'Dämmung',de,Winter,#154c79,#022f78,3,0.0694595762418235
+'Dämmung',de,Winter,#154c79,#022f78,3,0.06399180980554997
 'frieren',de,Winter,#154c79,#638ed4,2,0.0493137177155008
