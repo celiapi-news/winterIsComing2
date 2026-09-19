@@ -9,10 +9,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Industrie',de,Politik,#22ee22,#802d16,3,0.2658023421128202
 'Kreml',de,Russland,#bb3388,#154c79,3,0.2627728386458842
 'Wladimir Putin',de,Russland,#bb3388,#154c79,3,0.2598620695370192
-'Bürgergeld',de,Politik,#22ee22,#d64118,3,0.2584087377067281
 'Katar',de,Politik,#22ee22,#61b00c,3,0.2558414637061406
 'Energie',de,Energiekrise,#ee4422,#a89216,3,0.2488888060285306
 'Chamenei',de,Israel,#bb3388,#154c79,2,0.2486536354826654
+'Bürgergeld',de,Politik,#22ee22,#d64118,3,0.2427827852325371
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.2394565640974911
 'sparen',de,Energiekrise,#154c79,#7db344,3,0.2285419489659989
 'Benjamin Netanjahu',de,Israel,#bb3388,#154c79,3,0.2276060019870747
@@ -23,5 +23,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.1615455966230625
 'Winter',de,Winter,#154c79,#315fa8,3,0.1602564282298277
 'Gasmangel',de,Energiekrise,#ee4422,#bfba22,1,0.1278315781634587
-'Dämmung',de,Winter,#154c79,#022f78,3,0.06945957624182351
+'Dämmung',de,Winter,#154c79,#022f78,3,0.0694595762418235
 'frieren',de,Winter,#154c79,#638ed4,2,0.0493137177155008
