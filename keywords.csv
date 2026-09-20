@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Iran',de,Israel,#bb3388,#154c79,3,0.3769700314881307
+'Ukraine',de,Russland,#bb3388,#154c79,3,0.3187902502745229
 'Krieg',de,Russland,#bb3388,#154c79,3,0.2991726631859883
 'Pipeline',de,Russland,#bb3388,#154c79,3,0.2951113865081161
-'Ukraine',de,Russland,#bb3388,#154c79,3,0.2942805901625403
 'Saporischschja',de,Russland,#bb3388,#154c79,3,0.2820405079472394
 'Friedrich Merz',de,Politik,#22ee22,#3b4a63,3,0.2669995227264583
 'Industrie',de,Politik,#22ee22,#802d16,3,0.2658023421128202
@@ -10,7 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wladimir Putin',de,Russland,#bb3388,#154c79,3,0.2598620695370192
 'Katar',de,Politik,#22ee22,#61b00c,3,0.2558414637061406
 'Energie',de,Energiekrise,#ee4422,#a89216,3,0.2488888060285306
-'Gas',de,Winter,#154c79,#9e3215,3,0.24518243095136982
+'Gas',de,Winter,#154c79,#9e3215,3,0.2451824309513698
 'Bürgergeld',de,Politik,#22ee22,#d64118,3,0.2427827852325371
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.2394565640974911
 'sparen',de,Energiekrise,#154c79,#7db344,3,0.2285419489659989
