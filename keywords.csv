@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Iran',de,Israel,#bb3388,#154c79,3,0.3617832231285474
 'Pipeline',de,Russland,#bb3388,#154c79,3,0.315515529895535
-'Krieg',de,Russland,#bb3388,#154c79,3,0.30477284416263545
+'Krieg',de,Russland,#bb3388,#154c79,3,0.3047728441626354
 'Ukraine',de,Russland,#bb3388,#154c79,3,0.2987147454606172
 'Industrie',de,Politik,#22ee22,#802d16,3,0.2763621862504426
 'Friedrich Merz',de,Politik,#22ee22,#3b4a63,3,0.2669995227264583
@@ -15,9 +15,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.2394565640974911
 'Benjamin Netanjahu',de,Israel,#bb3388,#154c79,3,0.2347819780526498
 'sparen',de,Energiekrise,#154c79,#7db344,3,0.2285419489659989
-'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.2126664652871132
 'Chamenei',de,Israel,#bb3388,#154c79,1,0.2113560701602655
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.2044948470252234
+'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.19937210413040984
 'Olaf Scholz',de,Politik,#22ee22,#3b4a63,3,0.1969854264829675
 'heizen',de,Energiekrise,#ee4422,#b55035,3,0.1936797496575982
 'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.1615455966230625
