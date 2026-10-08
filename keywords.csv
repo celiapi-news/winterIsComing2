@@ -12,11 +12,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Friedrich Merz',de,Politik,#22ee22,#3b4a63,3,0.2460217115438302
 'Saporischschja',de,Russland,#bb3388,#154c79,3,0.2446865317551534
 'sparen',de,Energiekrise,#154c79,#7db344,3,0.2348122079666618
-'Bürgergeld',de,Politik,#22ee22,#d64118,3,0.2271792858986898
 'Benjamin Netanjahu',de,Israel,#bb3388,#154c79,3,0.2258853262649368
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.2171080000831645
 'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.2153432444199392
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.2151385613350762
+'Bürgergeld',de,Politik,#22ee22,#d64118,3,0.20728015301388633
 'Olaf Scholz',de,Politik,#22ee22,#3b4a63,3,0.1969854264829675
 'heizen',de,Energiekrise,#ee4422,#b55035,3,0.1936797496575982
 'Chamenei',de,Israel,#bb3388,#154c79,2,0.192135948713519
@@ -24,4 +24,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Unterstützung',de,Politik,#22ee22,#c4b03b,3,0.1619136421296031
 'Winter',de,Winter,#154c79,#315fa8,3,0.1602564282298277
 'Dämmung',de,Winter,#154c79,#022f78,3,0.06597467498049
-'frieren',de,Winter,#154c79,#638ed4,2,0.06587421354657728
+'frieren',de,Winter,#154c79,#638ed4,2,0.0658742135465772
