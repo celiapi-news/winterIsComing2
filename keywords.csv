@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Krieg',de,Russland,#bb3388,#154c79,3,0.3458946763007086
-'Ukraine',de,Russland,#bb3388,#154c79,3,0.3312363892316595
+'Ukraine',de,Russland,#bb3388,#154c79,3,0.34265886084691055
 'Kreml',de,Russland,#bb3388,#154c79,3,0.3225160296239973
 'Pipeline',de,Russland,#bb3388,#154c79,3,0.3173755134691347
 'Iran',de,Israel,#bb3388,#154c79,3,0.3148878685420785
@@ -16,7 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sicherheit',de,Politik,#22ee22,#477515,3,0.2171080000831645
 'Versorgung',de,Energiekrise,#ee4422,#679e2c,3,0.2153432444199392
 'Import',de,Energiekrise,#ee4422,#87830f,3,0.2151385613350762
-'Bürgergeld',de,Politik,#22ee22,#d64118,3,0.20728015301388633
+'Bürgergeld',de,Politik,#22ee22,#d64118,3,0.2072801530138863
 'Olaf Scholz',de,Politik,#22ee22,#3b4a63,3,0.1969854264829675
 'heizen',de,Energiekrise,#ee4422,#b55035,3,0.1936797496575982
 'Chamenei',de,Israel,#bb3388,#154c79,2,0.192135948713519
